@@ -1,0 +1,173 @@
+PROJECT RISK MANAGEMENT
+Project Risk Management includes the processes of conducting risk management planning, identification,
+analysis, response planning, and controlling risk on a project. The objectives of project risk management are to
+increase the likelihood and impact of positive events, and decrease the likelihood and impact of negative events
+in the project.
+Figure 11-1 provides an overview of the Project Risk Management processes, which are as follows:
+11.1 Plan Risk Management—The process of defining how to conduct risk management activities for a
+project.
+11.2 Identify Risks—The process of determining which risks may affect the project and documenting
+their characteristics.
+11.3 Perform Qualitative Risk Analysis—The process of prioritizing risks for further analysis or action
+by assessing and combining their probability of occurrence and impact.
+11.4 Perform Quantitative Risk Analysis—The process of numerically analyzing the effect of identified
+risks on overall project objectives.
+11.5 Plan Risk Responses—The process of developing options and actions to enhance opportunities and
+to reduce threats to project objectives.
+11.6 Control Risks—The process of implementing risk response plans, tracking identified risks, monitoring
+residual risks, identifying new risks, and evaluating risk process effectiveness throughout the project.
+These processes interact with each other and with processes in other Knowledge Areas as described in detail
+in Section 3 and Annex A1.
+Project risk is an uncertain event or condition that, if it occurs, has a positive or negative effect on one or
+more project objectives such as scope, schedule, cost, and quality. A risk may have one or more causes and,
+if it occurs, it may have one or more impacts. A cause may be a given or potential requirement, assumption,
+constraint, or condition that creates the possibility of negative or positive outcomes. For example, causes could
+include the requirement of an environmental permit to do work, or having limited personnel assigned to design the
+project. The risk is that the permitting agency may take longer than planned to issue a permit; or, in the case of
+an opportunity, additional development personnel may become available who can participate in design, and they
+can be assigned to the project. If either of these uncertain events occurs, there may be an impact on the project,
+scope, cost, schedule, quality, or performance. Risk conditions may include aspects of the project’s or organization’s
+environment that contribute to project risk, such as immature project management practices, lack of integrated
+management systems, concurrent multiple projects, or dependency on external participants who are outside the
+project’s direct control.
+Project risk has its origins in the uncertainty present in all projects. Known risks are those that have been
+identified and analyzed, making it possible to plan responses for those risks. Known risks that cannot be managed
+proactively, should be assigned a contingency reserve. Unknown risks cannot be managed proactively and therefore
+may be assigned a management reserve. A negative project risk that has occurred is considered an issue.
+Individual project risks are different from overall project risk. Overall project risk represents the effect of
+uncertainty on the project as a whole. It is more than the sum of the individual risks within a project, since it includes
+all sources of project uncertainty. It represents the exposure of stakeholders to the implications of variations in
+project outcome, both positive and negative.
+Organizations perceive risk as the effect of uncertainty on projects and organizational objectives. Organizations
+and stakeholders are willing to accept varying degrees of risk depending on their risk attitude. The risk attitudes of
+both the organization and the stakeholders may be influenced by a number of factors, which are broadly classified
+into three themes:
+• Risk appetite, which is the degree of uncertainty an entity is willing to take on in anticipation of a reward.
+• Risk tolerance, which is the degree, amount, or volume of risk that an organization or individual will
+withstand.
+• Risk threshold, which refers to measures along the level of uncertainty or the level of impact at which a
+stakeholder may have a specific interest. Below that risk threshold, the organization will accept the risk.
+Above that risk threshold, the organization will not tolerate the risk.
+For example, an organization’s risk attitude may include its appetite for uncertainty, its threshold for risk levels
+that are unacceptable, or its risk tolerance at which point the organization may select a different risk response.
+Positive and negative risks are commonly referred to as opportunities and threats. The project may be accepted
+if the risks are within tolerances and are in balance with the rewards that may be gained by taking the risks. Positive
+risks that offer opportunities within the limits of risk tolerances may be pursued in order to generate enhanced
+value. For example, adopting an aggressive resource optimization technique is a risk taken in anticipation of a
+reward for using fewer resources.
+Individuals and groups adopt attitudes toward risk that influence the way they respond. These risk attitudes are
+driven by perception, tolerances, and other biases, which should be made explicit wherever possible. A consistent
+approach to risk should be developed for each project, and communication about risk and its handling should
+be open and honest. Risk responses reflect an organization’s perceived balance between risk taking and risk
+avoidance.
+To be successful, an organization should be committed to address risk management proactively and consistently
+throughout the project. A conscious choice should be made at all levels of the organization to actively identify and
+pursue effective risk management during the life of the project. Project risk could exist at the moment a project
+is initiated. Moving forward on a project without a proactive focus on risk management is likely to lead to more
+problems arising from unmanaged threats.
+11.1 Plan Risk Management
+Plan Risk Management is the process of defining how to conduct risk management activities for a project. The
+key benefit of this process is it ensures that the degree, type, and visibility of risk management are commensurate
+with both the risks and the importance of the project to the organization. The risk management plan is vital to
+communicate with and obtain agreement and support from all stakeholders to ensure the risk management process
+is supported and performed effectively over the project life cycle. The inputs, tools and techniques, and outputs of
+this process are depicted in Figure 11-2. Figure 11-3 depicts the data flow diagram of the process.
+Careful and explicit planning enhances the probability of success for other risk management processes. Planning
+is also important to provide sufficient resources and time for risk management activities and to establish an agreedupon
+basis for evaluating risks. The Plan Risk Management process should begin when a project is conceived and
+should be completed early during project planning.
+11.1.1 Plan Risk Management: Inputs
+11.1.1.1 Project Management Plan
+In planning risk management, all approved subsidiary management plans and baselines should be taken into
+consideration in order to make the risk management plan consistent with them. The risk management plan is also
+a component of the project management plan. The project management plan provides baseline or current state of
+risk-affected areas including scope, schedule, and cost.
+11.1.1.2 Project Charter
+Described in Section 4.1.3.1. The project charter can provide various inputs such as high-level risks, high-level
+project descriptions, and high-level requirements.
+11.1.1.3 Stakeholder Register
+Described in Section 13.1.3.1. The stakeholder register, which contains all details related to the project’s
+stakeholders, provides an overview of their roles.
+11.1.1.4 Enterprise Environmental Factors
+Described in Section 2.1.5. The enterprise environmental factors that can influence the Plan Risk Management
+process include, but are not limited to, risk attitudes, thresholds, and tolerances that describe the degree of risk
+that an organization will withstand.
+11.1.1.5 Organizational Process Assets
+Described in Section 2.1.4. The organizational process assets that can influence the Plan Risk Management
+process include, but are not limited to:
+• Risk categories,
+• Common definitions of concepts and terms,
+• Risk statement formats,
+• Standard templates,
+• Roles and responsibilities,
+• Authority levels for decision making, and
+• Lessons learned.
+11.1.2 Plan Risk Management: Tools and Techniques
+11.1.2.1 Analytical Techniques
+Analytical techniques are used to understand and define the overall risk management context of the project.
+Risk management context is a combination of stakeholder risk attitudes and the strategic risk exposure of a given
+project based on the overall project context. For example, a stakeholder risk profile analysis may be performed to
+grade and qualify the project stakeholder risk appetite and tolerance. Other techniques, such as the use of strategic
+risk scoring sheets, are used to provide a high-level assessment of the risk exposure of the project based on the
+overall project context. Depending on these assessments, the project team can allocate appropriate resources and
+focus on the risk management activities.
+11.1.2.2 Expert Judgment
+To ensure a comprehensive establishment of the risk management plan, judgment, and expertise should be
+considered from groups or individuals with specialized training or knowledge on the subject area, such as:
+• Senior management,
+• Project stakeholders,
+• Project managers who have worked on projects in the same area (directly or through lessons learned),
+• Subject matter experts (SMEs) in business or project area,
+• Industry groups and consultants, and
+• Professional and technical associations.
+11.1.2.3 Meetings
+Project teams hold planning meetings to develop the risk management plan. Attendees at these meetings may
+include the project manager, selected project team members and stakeholders, anyone in the organization with
+responsibility to manage the risk planning and execution activities, and others, as needed.
+High-level plans for conducting the risk management activities are defined in these meetings. Risk management
+cost elements and schedule activities should be developed for inclusion in the project budget and schedule,
+respectively. Risk contingency reserve application approaches may be established or reviewed. Risk management
+responsibilities should be assigned. General organizational templates for risk categories and definitions of terms
+such as levels of risk, probability by type of risk, impact by type of objectives, and the probability and impact matrix
+will be tailored to the specific project. If templates for other steps in the process do not exist, they may be generated
+in these meetings. The outputs of these activities are summarized in the risk management plan.
+11.1.3 Plan Risk Management: Outputs
+11.1.3.1 Risk Management Plan
+The risk management plan is a component of the project management plan and describes how risk management
+activities will be structured and performed. The risk management plan includes the following:
+• Methodology. Defines the approaches, tools, and data sources that will be used to perform risk
+management on the project.
+• R oles and responsibilities. Defines the lead, support, and risk management team members for each
+type of activity in the risk management plan, and clarifies their responsibilities.
+• Budgeting. Estimates funds needed, based on assigned resources, for inclusion in the cost baseline and
+establishes protocols for application of contingency and management reserves.
+• Timing. Defines when and how often the risk management processes will be performed throughout the
+project life cycle, establishes protocols for application of schedule contingency reserves, and establishes
+risk management activities for inclusion in the project schedule.
+• Risk categories. Provide a means for grouping potential causes of risk. Several approaches can be
+used, for example, a structure based on project objectives by category. A risk breakdown structure (RBS)
+helps the project team to look at many sources from which project risk may arise in a risk identification
+exercise. Different RBS structures will be appropriate for different types of projects. An organization can
+use a previously prepared custom categorization framework, which may take the form of a simple list of
+categories or may be structured into an RBS. The RBS is a hierarchical representation of risks according
+to their risk categories. An example is shown in Figure 11-4.
+• Definitions of risk probability and impact. The quality and credibility of the risk analysis requires that
+different levels of risk probability and impact be defined that are specific to the project context. General
+definitions of probability levels and impact levels are tailored to the individual project during the Plan
+Risk Management process for use in subsequent processes. Table 11-1 is an example of definitions of
+negative impacts that could be used in evaluating risk impacts related to four project objectives. (Similar
+tables may be established with a positive impact perspective). Table 11-1 illustrates both relative and
+numerical (in this case, nonlinear) approaches.
+• Probability and impact matrix. A probability and impact matrix is a grid for mapping the probability
+of each risk occurrence and its impact on project objectives if that risk occurs. Risks are prioritized
+according to their potential implications for having an effect on the project’s objectives. A typical
+approach to prioritizing risks is to use a look-up table or a probability and impact matrix. The specific
+combinations of probability and impact that lead to a risk being rated as “high,” “moderate,” or “low”
+importance are usually set by the organization.
+• Revised stakeholders’ tolerances. Stakeholders’ tolerances, as they apply to the specific project, may
+be revised in the Plan Risk Management process.
+• Reporting formats. Reporting formats define how the outcomes of the risk management process will
+be documented, analyzed, and communicated. It describes the content and format of the risk register as
+well as any other risk reports required.
+• Tracking. Tracking documents how risk activities will be recorded for the benefit of the current project
+and how risk management processes will be audited.

@@ -1,0 +1,169 @@
+11.5 Plan Risk Responses
+Plan Risk Responses is the process of developing options and actions to enhance opportunities and to reduce
+threats to project objectives. The key benefit of this process is that it addresses the risks by their priority, inserting
+resources and activities into the budget, schedule and project management plan as needed. The inputs, tools and
+techniques, and outputs of this process are depicted in Figure 11-18. Figure 11-19 depicts the data flow diagram
+of the process.
+The Plan Risk Responses process follows the Perform Quantitative Risk Analysis process (if used). Each risk
+response requires an understanding of the mechanism by which it will address the risk. This is the mechanism
+used to analyze if the risk response plan is having the desired effect. It includes the identification and assignment
+of one person (an owner for risk response) to take responsibility for each agreed-to and funded risk response. Risk
+responses should be appropriate for the significance of the risk, cost-effective in meeting the challenge, realistic
+within the project context, agreed upon by all parties involved, and owned by a responsible person. Selecting the
+optimum risk response from several options is often required.
+The Plan Risk Responses process presents commonly used approaches to planning responses to the risks.
+Risks include threats and opportunities that can affect project success, and responses are discussed for each.
+11.5.1 Plan Risk Responses: Inputs
+11.5.1.1 Risk Management Plan
+Important components of the risk management plan include roles and responsibilities, risk analysis definitions,
+timing for reviews (and for eliminating risks from review), and risk thresholds for low, moderate, and high risks. Risk
+thresholds help identify those risks for which specific responses are needed.
+11.5.1.2 Risk Register
+The risk register refers to identified risks, root causes of risks, lists of potential responses, risk owners, symptoms
+and warning signs, the relative rating or priority list of project risks, risks requiring responses in the near term, risks
+for additional analysis and response, trends in qualitative analysis results, and a watch list, which is a list of lowpriority
+risks within the risk register.
+11.5.2 Plan Risk Responses: Tools and Techniques
+Several risk response strategies are available. The strategy or mix of strategies most likely to be effective
+should be selected for each risk. Risk analysis tools, such as decision tree analysis (Section 11.4.2.2), can be
+used to choose the most appropriate responses. Specific actions are developed to implement that strategy,
+including primary and backup strategies, as necessary. A fallback plan can be developed for implementation
+if the selected strategy turns out not to be fully effective or if an accepted risk occurs. Secondary risks should
+also be reviewed. Secondary risks are risks that arise as a direct result of implementing a risk response. A
+contingency reserve is often allocated for time or cost. If developed, it may include identification of the conditions
+that trigger its use.
+11.5.2.1 Strategies for Negative Risks or Threats
+Three strategies, which typically deal with threats or risks that may have negative impacts on project objectives
+if they occur, are: avoid, transfer, and mitigate. The fourth strategy, accept, can be used for negative risks or threats
+as well as positive risks or opportunities. Each of these risk response strategies have varied and unique influence
+on the risk condition. These strategies should be chosen to match the risk’s probability and impact on the project’s
+overall objectives. Avoidance and mitigation strategies are usually good strategies for critical risks with high impact,
+while transference and acceptance are usually good strategies for threats that are less critical and with low overall
+impact. The four strategies for dealing with negative risks or threats are further described as follows:
+• Avoid. Risk avoidance is a risk response strategy whereby the project team acts to eliminate the threat or
+protect the project from its impact. It usually involves changing the project management plan to eliminate
+the threat entirely. The project manager may also isolate the project objectives from the risk’s impact or
+change the objective that is in jeopardy. Examples of this include extending the schedule, changing the
+strategy, or reducing scope. The most radical avoidance strategy is to shut down the project entirely.
+Some risks that arise early in the project can be avoided by clarifying requirements, obtaining information,
+improving communication, or acquiring expertise.
+• Transfer. Risk transference is a risk response strategy whereby the project team shifts the impact of
+a threat to a third party, together with ownership of the response. Transferring the risk simply gives
+another party responsibility for its management—it does not eliminate it. Transferring does not mean
+disowning the risk by transferring it to a later project or another person without his or her knowledge or
+agreement. Risk transference nearly always involves payment of a risk premium to the party taking on
+the risk. Transferring liability for risk is most effective in dealing with financial risk exposure. Transference
+tools can be quite diverse and include, but are not limited to, the use of insurance, performance bonds,
+warranties, guarantees, etc. Contracts or agreements may be used to transfer liability for specified risks
+to another party. For example, when a buyer has capabilities that the seller does not possess, it may be
+prudent to transfer some work and its concurrent risk contractually back to the buyer. In many cases, use
+of a cost-plus contract may transfer the cost risk to the buyer, while a fixed-price contract may transfer
+risk to the seller.
+• Mitigate. Risk mitigation is a risk response strategy whereby the project team acts to reduce the
+probability of occurrence or impact of a risk. It implies a reduction in the probability and/or impact of an
+adverse risk to be within acceptable threshold limits. Taking early action to reduce the probability and/or
+impact of a risk occurring on the project is often more effective than trying to repair the damage after the
+risk has occurred. Adopting less complex processes, conducting more tests, or choosing a more stable
+supplier are examples of mitigation actions. Mitigation may require prototype development to reduce the
+risk of scaling up from a bench-scale model of a process or product. Where it is not possible to reduce
+probability, a mitigation response might address the risk impact by targeting linkages that determine the
+severity. For example, designing redundancy into a system may reduce the impact from a failure of the
+original component.
+• Accept. Risk acceptance is a risk response strategy whereby the project team decides to acknowledge
+the risk and not take any action unless the risk occurs. This strategy is adopted where it is not possible
+or cost-effective to address a specific risk in any other way. This strategy indicates that the project
+team has decided not to change the project management plan to deal with a risk, or is unable to identify
+any other suitable response strategy. This strategy can be either passive or active. Passive acceptance
+requires no action except to document the strategy, leaving the project team to deal with the risks as
+they occur, and to periodically review the threat to ensure that it does not change significantly. The
+most common active acceptance strategy is to establish a contingency reserve, including amounts of
+time, money, or resources to handle the risks.
+11.5.2.2 Strategies for Positive Risks or Opportunities
+Three of the four responses are suggested to deal with risks with potentially positive impacts on project objectives.
+The fourth strategy, accept, can be used for negative risks or threats as well as positive risks or opportunities. These
+strategies, described below, are to exploit, share, enhance, and accept.
+• Exploit. The exploit strategy may be selected for risks with positive impacts where the organization wishes
+to ensure that the opportunity is realized. This strategy seeks to eliminate the uncertainty associated with
+a particular upside risk by ensuring the opportunity definitely happens. Examples of directly exploiting
+responses include assigning an organization’s most talented resources to the project to reduce the time
+to completion or using new technologies or technology upgrades to reduce cost and duration required to
+realize project objectives.
+• Enhance. The enhance strategy is used to increase the probability and/or the positive impacts of an
+opportunity. Identifying and maximizing key drivers of these positive-impact risks may increase the
+probability of their occurrence. Examples of enhancing opportunities include adding more resources to
+an activity to finish early.
+• Share. Sharing a positive risk involves allocating some or all of the ownership of the opportunity to a
+third party who is best able to capture the opportunity for the benefit of the project. Examples of sharing
+actions include forming risk-sharing partnerships, teams, special-purpose companies, or joint ventures,
+which can be established with the express purpose of taking advantage of the opportunity so that all
+parties gain from their actions.
+• Accept. Accepting an opportunity is being willing to take advantage of the opportunity if it arises, but
+not actively pursuing it.
+11.5.2.3 Contingent Response Strategies
+Some responses are designed for use only if certain events occur. For some risks, it is appropriate for
+the project team to make a response plan that will only be executed under certain predefined conditions, if
+it is believed that there will be sufficient warning to implement the plan. Events that trigger the contingency
+response, such as missing intermediate milestones or gaining higher priority with a supplier, should be defined
+and tracked. Risk responses identified using this technique are often called contingency plans or fallback plans
+and include identified triggering events that set the plans in effect.
+11.5.2.4 Expert Judgment
+Expert judgment is input from knowledgeable parties pertaining to the actions to be taken on a specific and
+defined risk. Expertise may be provided by any group or person with specialized education, knowledge, skill,
+experience, or training in establishing risk responses.
+11.5.3 Plan Risk Responses: Outputs
+11.5.3.1 Project Management Plan Updates
+Elements of the project management plan that may be updated as a result of carrying out this process include,
+but are not limited to:
+• Schedule management plan. The schedule management plan is updated to reflect changes in process
+and practice driven by the risk responses. This may include changes in tolerance or behavior related to
+resource loading and leveling, as well as updates to the schedule strategy.
+• C ost management plan. The cost management plan is updated to reflect changes in process and
+practice driven by the risk responses. This may include changes in tolerance or behavior related to
+cost accounting, tracking, and reports, as well as updates to the budget strategy and how contingency
+reserves are consumed.
+• Quality management plan. The quality management plan is updated to reflect changes in process
+and practice driven by the risk responses. This may include changes in tolerance or behavior related to
+requirements, quality assurance, or quality control, as well as updates to the requirements documentation.
+• Procurement management plan. The procurement management plan may be updated to reflect
+changes in strategy, such as alterations in the make-or-buy decision or contract type(s) driven by the risk
+responses.
+• Human resource management plan. The staffing management plan, part of the human resource
+management plan, is updated to reflect changes in project organizational structure and resource
+applications driven by the risk responses. This may include changes in tolerance or behavior related to
+staff allocation, as well as updates to the resource loading.
+• Scope baseline. Because of new, modified or omitted work generated by the risk responses, the scope
+baseline may be updated to reflect those changes.
+• Schedule baseline. Because of new work (or omitted work) generated by the risk responses, the schedule
+baseline may be updated to reflect those changes.
+• Cost baseline. Because of new work (or omitted work) generated by the risk responses, the cost baseline
+may be updated to reflect those changes.
+11.5.3.2 Project Documents Updates
+In the Plan Risk Responses process, several project documents are updated as needed. For example, when
+appropriate risk responses are chosen and agreed upon, they are included in the risk register. The risk register
+should be written to a level of detail that corresponds with the priority ranking and the planned response. Often, the
+high and moderate risks are addressed in detail. Risks judged to be of low priority are included in a watch list for
+periodic monitoring. Updates to the risk register can include, but are not limited to:
+• Risk owners and assigned responsibilities;
+• Agreed-upon response strategies;
+• Specific actions to implement the chosen response strategy;
+• Trigger conditions, symptoms, and warning signs of a risk occurrence;
+• Budget and schedule activities required to implement the chosen responses;
+• Contingency plans and triggers that call for their execution;
+• Fallback plans for use as a reaction to a risk that has occurred and the primary response proves to be
+inadequate;
+• Residual risks that are expected to remain after planned responses have been taken, as well as those that
+have been deliberately accepted;
+• Secondary risks that arise as a direct outcome of implementing a risk response; and
+• Contingency reserves that are calculated based on the quantitative risk analysis of the project and the
+organization’s risk thresholds.
+Other project documents updated could include:
+• Assumptions log updates. As new information becomes available through the application of risk
+responses, assumptions could change. The assumptions log needs to be revisited to accommodate this
+new information.
+• T echnical documentation updates. As new information becomes available through the application
+of risk responses, technical approaches and physical deliverables may change. Any supporting
+documentation needs to be revisited to accommodate this new information.
+• Change requests. Planning for possible risk responses can often result in recommendations for changes
+to the resources, activities, cost estimates, and other items identified during other planning processes.
+When such recommendations are identified, change requests are generated and processed through the
+Perform Integrated Change Control process.

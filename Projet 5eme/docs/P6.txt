@@ -1,0 +1,110 @@
+11.6 Control Risks
+Control Risks is the process of implementing risk response plans, tracking identified risks, monitoring residual
+risks, identifying new risks, and evaluating risk process effectiveness throughout the project. The key benefit of
+this process is that it improves efficiency of the risk approach throughout the project life cycle to continuously
+optimize risk responses. The inputs, tools and techniques, and outputs of this process are depicted in Figure 11-20.
+Figure 11-21 depicts the data flow diagram of the process.
+Planned risk responses that are included in the risk register are executed during the life cycle of the project, but
+the project work should be continuously monitored for new, changing, and outdated risks.
+The Control Risks process applies techniques, such as variance and trend analysis, which require the use of
+performance information generated during project execution. Other purposes of the Control Risks process are to
+determine if:
+• Project assumptions are still valid,
+• Analysis shows an assessed risk has changed or can be retired,
+• Risk management policies and procedures are being followed, and
+• Contingency reserves for cost or schedule should be modified in alignment with the current risk
+assessment.
+Control Risks can involve choosing alternative strategies, executing a contingency or fallback plan, taking
+corrective action, and modifying the project management plan. The risk response owner reports periodically to the
+project manager on the effectiveness of the plan, any unanticipated effects, and any correction needed to handle
+the risk appropriately. Control Risks also includes updating the organizational process assets, including project
+lessons learned databases and risk management templates, for the benefit of future projects.
+11.6.1 Control Risks: Inputs
+11.6.1.1 Project Management Plan
+Described in Section 4.2.3.1. The project management plan, which includes the risk management plan, provides
+guidance for risk monitoring and controlling.
+11.6.1.2 Risk Register
+The risk register has key inputs that include identified risks and risk owners, agreed-upon risk responses,
+control actions for assessing the effectiveness of response plans, risk responses, specific implementation actions,
+symptoms and warning signs of risk, residual and secondary risks, a watch list of low-priority risks, and the time
+and cost contingency reserves. The watch list is within the risk register and provides a list of low-priority risks.
+11.6.1.3 Work Performance Data
+Described in Section 4.3.3.2. Work performance data related to various performance results possibly impacted
+by risks includes, but is not limited to:
+• Deliverable status,
+• Schedule progress, and
+• Costs incurred.
+11.6.1.4 Work Performance Reports
+Described in Section 4.4.3.2. Work performance reports take information from performance measurements
+and analyze it to provide project work performance information including variance analysis, earned value data, and
+forecasting data. These data points could be impactful in controlling performance related risks.
+11.6.2 Control Risks: Tools and Techniques
+11.6.2.1 Risk Reassessment
+Control Risks often results in identification of new risks, reassessment of current risks, and the closing of risks
+that are outdated. Project risk reassessments should be regularly scheduled. The amount and detail of repetition
+that are appropriate depends on how the project progresses relative to its objectives.
+11.6.2.2 Risk Audits
+Risk audits examine and document the effectiveness of risk responses in dealing with identified risks and their
+root causes, as well as the effectiveness of the risk management process. The project manager is responsible for
+ensuring that risk audits are performed at an appropriate frequency, as defined in the project’s risk management
+plan. Risk audits may be included during routine project review meetings, or the team may choose to hold separate
+risk audit meetings. The format for the audit and its objectives should be clearly defined before the audit is conducted.
+11.6.2.3 Variance and Trend Analysis
+Many control processes employ variance analysis to compare the planned results to the actual results. For the
+purposes of controlling risks, trends in the project’s execution should be reviewed using performance information.
+Earned value analysis and other methods of project variance and trend analysis may be used for monitoring overall
+project performance. Outcomes from these analyses may forecast potential deviation of the project at completion
+from cost and schedule targets. Deviation from the baseline plan may indicate the potential impact of threats or
+opportunities.
+11.6.2.4 Technical Performance Measurement
+Technical performance measurement compares technical accomplishments during project execution to the
+schedule of technical achievement. It requires the definition of objective, quantifiable measures of technical
+performance, which can be used to compare actual results against targets. Such technical performance measures
+may include weight, transaction times, number of delivered defects, storage capacity, etc. Deviation, such as
+demonstrating more or less functionality than planned at a milestone, can help to forecast the degree of success
+in achieving the project’s scope.
+11.6.2.5 Reserve Analysis
+Throughout execution of the project, some risks may occur with positive or negative impacts on budget or
+schedule contingency reserves. Reserve analysis compares the amount of the contingency reserves remaining to
+the amount of risk remaining at any time in the project in order to determine if the remaining reserve is adequate.
+11.6.2.6 Meetings
+Project risk management should be an agenda item at periodic status meetings. The amount of time required
+for that item will vary, depending upon the risks that have been identified, their priority, and difficulty of response.
+The more often risk management is practiced, the easier it becomes. Frequent discussions about risk make it more
+likely that people will identify risks and opportunities.
+11.6.3 Control Risks: Outputs
+11.6.3.1 Work Performance Information
+Work performance information, as a Control Risks output, provides a mechanism to communicate and support
+project decision making.
+11.6.3.2 Change Requests
+Implementing contingency plans or workarounds sometimes results in a change request. Change requests are
+prepared and submitted to the Perform Integrated Change Control process (Section 4.5). Change requests can
+include recommended corrective and preventive actions as well.
+• R ecommended corrective actions. These are activities that realign the performance of the project
+work with the project management plan. They include contingency plans and workarounds. The latter
+are responses that were not initially planned, but are required to deal with emerging risks that were
+previously unidentified or accepted passively.
+• R ecommended preventive actions. These are activities that ensure that future performance of the
+project work is aligned with the project management plan.
+11.6.3.3 Project Management Plan Updates
+If the approved change requests have an effect on the risk management processes, the corresponding component
+documents of the project management plan are revised and reissued to reflect the approved changes. The elements
+of the project management plan that may be updated are the same as those in the Plan Risk Responses process.
+11.6.3.4 Project Documents Updates
+Project documents that may be updated as a result of the Control Risk process include, but are not limited to the
+risk register. Risk register updates may include:
+• O utcomes of risk reassessments, risk audits, and periodic risk reviews. These outcomes may
+include identification of new risks, updates to probability, impact, priority, response plans, ownership, and
+other elements of the risk register. Outcomes can also include closing risks that are no longer applicable
+and releasing their associated reserves.
+• Actual outcomes of the project’s risks and of the risk responses. This information can help project
+managers to plan for risk throughout their organizations, as well as on future projects.
+11.6.3.5 Organizational Process Assets Updates
+The risk management processes produce information that may be used for future projects, and should be
+captured in the organizational process assets. The organizational process assets that may be updated include, but
+are not limited to:
+• Templates for the risk management plan, including the probability and impact matrix and risk register,
+• Risk breakdown structure, and
+• Lessons learned from the project risk management activities.
+These documents should be updated as needed and at project closure. Final versions of the risk register and the
+risk management plan templates, checklists, and risk breakdown structure are included.

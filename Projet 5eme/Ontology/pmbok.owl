@@ -1,0 +1,3430 @@
+@prefix ns1: <http://schema.org/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://example.org/people/> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object ""^^xsd:string,
+        "$__build"^^xsd:string,
+        "$__m"^^xsd:string,
+        "actual_risk_responses"^^xsd:string,
+        "commonly_sensitivity_analysis"^^xsd:string,
+        "contingent_response_strategies"^^xsd:string,
+        "corrective__actions"^^xsd:string,
+        "cost__objectives"^^xsd:string,
+        "directly_plan_risk_responses"^^xsd:string,
+        "flow_charts"^^xsd:string,
+        "formats"^^xsd:string,
+        "investment_costs"^^xsd:string,
+        "management_probability_distributions"^^xsd:string,
+        "management_procurement_documents"^^xsd:string,
+        "management_risk_analysis"^^xsd:string,
+        "negative"^^xsd:string,
+        "negative__risks"^^xsd:string,
+        "positive__risks"^^xsd:string,
+        "potential__responses"^^xsd:string,
+        "potential__risk"^^xsd:string,
+        "preventive__actions"^^xsd:string,
+        "project_risk_management"^^xsd:string,
+        "qualitative"^^xsd:string,
+        "qualitative_analysis_organization_figure"^^xsd:string,
+        "qualitative_project_risk_management"^^xsd:string,
+        "quantified__risks"^^xsd:string,
+        "quantitative_project_risk_management"^^xsd:string,
+        "quantitative_risk_analysis_results"^^xsd:string,
+        "quantitative_stakeholders_stakeholder_register"^^xsd:string,
+        "rbs_risk_probability"^^xsd:string,
+        "risk_analysis_techniques"^^xsd:string,
+        "risk_management_responsibilities"^^xsd:string,
+        "risk_techniques"^^xsd:string,
+        "root_analysis"^^xsd:string,
+        "techniques"^^xsd:string,
+        "techniques_management_plan"^^xsd:string,
+        "wbs_scope_baseline"^^xsd:string ;
+    ns1:property "."^^xsd:string,
+        "accept"^^xsd:string,
+        "analysis"^^xsd:string,
+        "assessment"^^xsd:string,
+        "assets"^^xsd:string,
+        "audits"^^xsd:string,
+        "baseline"^^xsd:string,
+        "budgeting"^^xsd:string,
+        "categories"^^xsd:string,
+        "categorization"^^xsd:string,
+        "cause"^^xsd:string,
+        "charter"^^xsd:string,
+        "cost"^^xsd:string,
+        "costs"^^xsd:string,
+        "create"^^xsd:string,
+        "data"^^xsd:string,
+        "defines"^^xsd:string,
+        "demand"^^xsd:string,
+        "diagram"^^xsd:string,
+        "diagramming"^^xsd:string,
+        "diagrams"^^xsd:string,
+        "distribution"^^xsd:string,
+        "documents"^^xsd:string,
+        "enhance"^^xsd:string,
+        "environmental"^^xsd:string,
+        "estimates"^^xsd:string,
+        "example_of"^^xsd:string,
+        "exploit"^^xsd:string,
+        "factors"^^xsd:string,
+        "figure"^^xsd:string,
+        "gathering"^^xsd:string,
+        "high"^^xsd:string,
+        "human"^^xsd:string,
+        "identify"^^xsd:string,
+        "identify_quantitative"^^xsd:string,
+        "information"^^xsd:string,
+        "inputs"^^xsd:string,
+        "into"^^xsd:string,
+        "judgment"^^xsd:string,
+        "list_of"^^xsd:string,
+        "list_of_potential"^^xsd:string,
+        "low"^^xsd:string,
+        "m"^^xsd:string,
+        "management"^^xsd:string,
+        "measurement"^^xsd:string,
+        "meetings"^^xsd:string,
+        "mitigate"^^xsd:string,
+        "modeling"^^xsd:string,
+        "moderate"^^xsd:string,
+        "monitor"^^xsd:string,
+        "outcomes_of"^^xsd:string,
+        "outputs"^^xsd:string,
+        "overview"^^xsd:string,
+        "perform"^^xsd:string,
+        "perform_qualitative"^^xsd:string,
+        "perform_quantitative"^^xsd:string,
+        "performance"^^xsd:string,
+        "plan"^^xsd:string,
+        "probability"^^xsd:string,
+        "probability_of"^^xsd:string,
+        "provide"^^xsd:string,
+        "quality"^^xsd:string,
+        "range_of"^^xsd:string,
+        "reassessment"^^xsd:string,
+        "recommended_corrective"^^xsd:string,
+        "recommended_preventive"^^xsd:string,
+        "register"^^xsd:string,
+        "remember"^^xsd:string,
+        "reporting"^^xsd:string,
+        "requests"^^xsd:string,
+        "resource"^^xsd:string,
+        "responses"^^xsd:string,
+        "reviews"^^xsd:string,
+        "risk"^^xsd:string,
+        "risks"^^xsd:string,
+        "roles"^^xsd:string,
+        "schedule"^^xsd:string,
+        "share"^^xsd:string,
+        "strategies"^^xsd:string,
+        "strategies_for_negative"^^xsd:string,
+        "strategies_for_positive"^^xsd:string,
+        "system"^^xsd:string,
+        "table"^^xsd:string,
+        "technique"^^xsd:string,
+        "techniques"^^xsd:string,
+        "threats"^^xsd:string,
+        "timing"^^xsd:string,
+        "tolerances"^^xsd:string,
+        "tools"^^xsd:string,
+        "tracking"^^xsd:string,
+        "transfer"^^xsd:string,
+        "trends_in_quantitative"^^xsd:string,
+        "updates"^^xsd:string,
+        "used"^^xsd:string,
+        "variance"^^xsd:string ;
+    ns1:subject ""^^xsd:string .
+
+<http://example.org/people/%_budget> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "nearly__%"^^xsd:string ;
+    ns1:property "required"^^xsd:string ;
+    ns1:subject "%_budget"^^xsd:string .
+
+<http://example.org/people/accepted__risk> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "implementation"^^xsd:string ;
+    ns1:property "developed_for"^^xsd:string ;
+    ns1:subject "accepted__risk"^^xsd:string .
+
+<http://example.org/people/active_acceptance_strategy> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "contingency_risks"^^xsd:string ;
+    ns1:property "is"^^xsd:string ;
+    ns1:subject "active_acceptance_strategy"^^xsd:string .
+
+<http://example.org/people/activity_duration_estimates> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "risk_management"^^xsd:string ;
+    ns1:property "plan"^^xsd:string ;
+    ns1:subject "activity_duration_estimates"^^xsd:string .
+
+<http://example.org/people/additional__information> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "estimate_activity_durations"^^xsd:string ;
+    ns1:property "appears_in"^^xsd:string ;
+    ns1:subject "additional__information"^^xsd:string .
+
+<http://example.org/people/additionally__checklist> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "time"^^xsd:string ;
+    ns1:property "pruned_from"^^xsd:string ;
+    ns1:subject "additionally__checklist"^^xsd:string .
+
+<http://example.org/people/adopting> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "fewer_resource_optimization_resources"^^xsd:string,
+        "stable_mitigation_actions"^^xsd:string ;
+    ns1:property "are"^^xsd:string,
+        "is"^^xsd:string ;
+    ns1:subject "adopting"^^xsd:string .
+
+<http://example.org/people/also__that> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "checklist"^^xsd:string ;
+    ns1:property "explore"^^xsd:string ;
+    ns1:subject "also__that"^^xsd:string .
+
+<http://example.org/people/also_closing_that> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "associated__reserves"^^xsd:string ;
+    ns1:property "include"^^xsd:string ;
+    ns1:subject "also_closing_that"^^xsd:string .
+
+<http://example.org/people/also_project_that> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "jeopardy"^^xsd:string ;
+    ns1:property "isolate"^^xsd:string ;
+    ns1:subject "also_project_that"^^xsd:string .
+
+<http://example.org/people/also_staffing_management_which> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "key_risk_process"^^xsd:string ;
+    ns1:property "contain"^^xsd:string ;
+    ns1:subject "also_staffing_management_which"^^xsd:string .
+
+<http://example.org/people/analytical_plan_risk_techniques> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "overall_risk_management_project"^^xsd:string ;
+    ns1:property "used"^^xsd:string ;
+    ns1:subject "analytical_plan_risk_techniques"^^xsd:string .
+
+<http://example.org/people/area> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "most_project_uncertainty"^^xsd:string ;
+    ns1:property "risk"^^xsd:string ;
+    ns1:subject "area"^^xsd:string .
+
+<http://example.org/people/assumptions> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object ""^^xsd:string,
+        "separate_assumptions_log"^^xsd:string ;
+    ns1:property "incorporated_into"^^xsd:string,
+        "updates"^^xsd:string ;
+    ns1:subject "assumptions"^^xsd:string .
+
+<http://example.org/people/assumptions_analysis_they> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "project"^^xsd:string ;
+    ns1:property "explores"^^xsd:string ;
+    ns1:subject "assumptions_analysis_they"^^xsd:string .
+
+<http://example.org/people/assumptions_project> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "hypotheses"^^xsd:string ;
+    ns1:property "conceived"^^xsd:string ;
+    ns1:subject "assumptions_project"^^xsd:string .
+
+<http://example.org/people/audits_risk_audits> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "well_risk_management_process"^^xsd:string ;
+    ns1:property "examine"^^xsd:string ;
+    ns1:subject "audits_risk_audits"^^xsd:string .
+
+<http://example.org/people/availability> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "particular__project"^^xsd:string ;
+    ns1:property "determine"^^xsd:string ;
+    ns1:subject "availability"^^xsd:string .
+
+<http://example.org/people/base_xaxis> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "studied__output"^^xsd:string ;
+    ns1:property "contains"^^xsd:string ;
+    ns1:subject "base_xaxis"^^xsd:string .
+
+<http://example.org/people/beta__distributions> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "quantitative_risk_analysis"^^xsd:string ;
+    ns1:property "used_in_quantitative"^^xsd:string ;
+    ns1:subject "beta__distributions"^^xsd:string .
+
+<http://example.org/people/bias> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "process"^^xsd:string ;
+    ns1:property "taken_into"^^xsd:string ;
+    ns1:subject "bias"^^xsd:string .
+
+<http://example.org/people/blackandwhite__conditions> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "different__gray"^^xsd:string ;
+    ns1:property "denoted"^^xsd:string ;
+    ns1:subject "blackandwhite__conditions"^^xsd:string .
+
+<http://example.org/people/categories> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "such_risk_breakdown_framework"^^xsd:string ;
+    ns1:property "used_as"^^xsd:string ;
+    ns1:subject "categories"^^xsd:string .
+
+<http://example.org/people/causes> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "limited__project"^^xsd:string ;
+    ns1:property "include"^^xsd:string ;
+    ns1:subject "causes"^^xsd:string .
+
+<http://example.org/people/certain__events> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "use"^^xsd:string ;
+    ns1:property "designed_for"^^xsd:string ;
+    ns1:subject "certain__events"^^xsd:string .
+
+<http://example.org/people/change_requests> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object ""^^xsd:string,
+        "corrective__actions"^^xsd:string,
+        "integrated_change_control_process"^^xsd:string,
+        "sometimes_change_request"^^xsd:string ;
+    ns1:property "are"^^xsd:string,
+        "generated"^^xsd:string,
+        "include"^^xsd:string,
+        "opportunities"^^xsd:string,
+        "results_in"^^xsd:string ;
+    ns1:subject "change_requests"^^xsd:string .
+
+<http://example.org/people/checklist> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "future_project_projects"^^xsd:string,
+        "proper_risk_identification"^^xsd:string ;
+    ns1:property "is_impossible"^^xsd:string,
+        "reviewed_during"^^xsd:string ;
+    ns1:subject "checklist"^^xsd:string .
+
+<http://example.org/people/choice> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "$__m"^^xsd:string ;
+    ns1:property "represents"^^xsd:string ;
+    ns1:subject "choice"^^xsd:string .
+
+<http://example.org/people/clearly__audit> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "audit"^^xsd:string ;
+    ns1:property "defined"^^xsd:string ;
+    ns1:subject "clearly__audit"^^xsd:string .
+
+<http://example.org/people/close__procurements> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "procurement"^^xsd:string ;
+    ns1:property "is"^^xsd:string ;
+    ns1:subject "close__procurements"^^xsd:string .
+
+<http://example.org/people/common__use> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "analysis"^^xsd:string ;
+    ns1:property "is"^^xsd:string ;
+    ns1:subject "common__use"^^xsd:string .
+
+<http://example.org/people/communication> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "risk"^^xsd:string ;
+    ns1:property "developed_for"^^xsd:string ;
+    ns1:subject "communication"^^xsd:string .
+
+<http://example.org/people/complexity> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "planned_procurement_procurement"^^xsd:string ;
+    ns1:property "be_consistent"^^xsd:string ;
+    ns1:subject "complexity"^^xsd:string .
+
+<http://example.org/people/condition_project> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "activity_figure"^^xsd:string ;
+    ns1:property "estimates"^^xsd:string ;
+    ns1:subject "condition_project"^^xsd:string .
+
+<http://example.org/people/conduct_procurements> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "seller_contract"^^xsd:string ;
+    ns1:property "is"^^xsd:string ;
+    ns1:subject "conduct_procurements"^^xsd:string .
+
+<http://example.org/people/conscious__choice> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "effective_risk_project"^^xsd:string ;
+    ns1:property "made_at"^^xsd:string ;
+    ns1:subject "conscious__choice"^^xsd:string .
+
+<http://example.org/people/consensus> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "few__process"^^xsd:string ;
+    ns1:property "reached_in"^^xsd:string ;
+    ns1:subject "consensus"^^xsd:string .
+
+<http://example.org/people/contingency_reserve> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "often__time"^^xsd:string ;
+    ns1:property "allocated_for"^^xsd:string ;
+    ns1:subject "contingency_reserve"^^xsd:string .
+
+<http://example.org/people/contingency_reserves> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "current_risk_assessment"^^xsd:string ;
+    ns1:property "shows"^^xsd:string ;
+    ns1:subject "contingency_reserves"^^xsd:string .
+
+<http://example.org/people/contracts> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "specified__party"^^xsd:string ;
+    ns1:property "used"^^xsd:string ;
+    ns1:subject "contracts"^^xsd:string .
+
+<http://example.org/people/control_procurements> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "contract_changes"^^xsd:string ;
+    ns1:property "is"^^xsd:string ;
+    ns1:subject "control_procurements"^^xsd:string .
+
+<http://example.org/people/control_project_project> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "plan_work_performance"^^xsd:string ;
+    ns1:property "develop"^^xsd:string ;
+    ns1:subject "control_project_project"^^xsd:string .
+
+<http://example.org/people/control_risks> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "corrective_project_management_plan"^^xsd:string,
+        "future_risk_management_projects"^^xsd:string,
+        "new_risk_process_project"^^xsd:string ;
+    ns1:property "includes"^^xsd:string,
+        "involve"^^xsd:string,
+        "is"^^xsd:string ;
+    ns1:subject "control_risks"^^xsd:string .
+
+<http://example.org/people/corresponding_component_documents> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "approved_project_management_changes"^^xsd:string ;
+    ns1:property "revised"^^xsd:string ;
+    ns1:subject "corresponding_component_documents"^^xsd:string .
+
+<http://example.org/people/cost_management_plan> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "risk_reserves"^^xsd:string,
+        "risk_responses"^^xsd:string ;
+    ns1:property "provides"^^xsd:string,
+        "updated"^^xsd:string ;
+    ns1:subject "cost_management_plan"^^xsd:string .
+
+<http://example.org/people/cost_risk_simulation> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "cost_estimates"^^xsd:string ;
+    ns1:property "uses"^^xsd:string ;
+    ns1:subject "cost_risk_simulation"^^xsd:string .
+
+<http://example.org/people/critical__it> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "micro__levels"^^xsd:string ;
+    ns1:property "is"^^xsd:string ;
+    ns1:subject "critical__it"^^xsd:string .
+
+<http://example.org/people/current__that> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "current__risks"^^xsd:string ;
+    ns1:property "results_in"^^xsd:string ;
+    ns1:subject "current__that"^^xsd:string .
+
+<http://example.org/people/data> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "risk_management"^^xsd:string,
+        "two_shape_parameters"^^xsd:string ;
+    ns1:property "is"^^xsd:string ;
+    ns1:subject "data"^^xsd:string .
+
+<http://example.org/people/data_points> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "related__risks"^^xsd:string ;
+    ns1:property "be_impactful"^^xsd:string ;
+    ns1:subject "data_points"^^xsd:string .
+
+<http://example.org/people/data_that> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "risk_project"^^xsd:string ;
+    ns1:property "defines"^^xsd:string ;
+    ns1:subject "data_that"^^xsd:string .
+
+<http://example.org/people/decision_effects> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "monetary__decision"^^xsd:string ;
+    ns1:property "added"^^xsd:string ;
+    ns1:subject "decision_effects"^^xsd:string .
+
+<http://example.org/people/degree> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "risk_organization"^^xsd:string ;
+    ns1:property "is"^^xsd:string ;
+    ns1:subject "degree"^^xsd:string .
+
+<http://example.org/people/delphi_technique> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "experts"^^xsd:string,
+        "undue__outcome"^^xsd:string ;
+    ns1:property "helps"^^xsd:string,
+        "is"^^xsd:string ;
+    ns1:subject "delphi_technique"^^xsd:string .
+
+<http://example.org/people/descriptive__terms> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "organizational__preference"^^xsd:string ;
+    ns1:property "used"^^xsd:string ;
+    ns1:subject "descriptive__terms"^^xsd:string .
+
+<http://example.org/people/designing> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "original__component"^^xsd:string ;
+    ns1:property "reduce"^^xsd:string ;
+    ns1:subject "designing"^^xsd:string .
+
+<http://example.org/people/deviation> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "more__scope"^^xsd:string,
+        "potential_baseline_threats"^^xsd:string ;
+    ns1:property "help"^^xsd:string,
+        "indicate"^^xsd:string ;
+    ns1:subject "deviation"^^xsd:string .
+
+<http://example.org/people/diagramming> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "techniques"^^xsd:string ;
+    ns1:property "include"^^xsd:string ;
+    ns1:subject "diagramming"^^xsd:string .
+
+<http://example.org/people/different__that> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "each"^^xsd:string ;
+    ns1:property "handled_in"^^xsd:string ;
+    ns1:subject "different__that"^^xsd:string .
+
+<http://example.org/people/different_rbs_structures> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "different__projects"^^xsd:string ;
+    ns1:property "be_appropriate"^^xsd:string ;
+    ns1:subject "different_rbs_structures"^^xsd:string .
+
+<http://example.org/people/direct_change_control> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "work_work_performance"^^xsd:string ;
+    ns1:property "requests_direct"^^xsd:string ;
+    ns1:subject "direct_change_control"^^xsd:string .
+
+<http://example.org/people/direct_contingency_that> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "quantitative_risk_project"^^xsd:string ;
+    ns1:property "include"^^xsd:string ;
+    ns1:subject "direct_contingency_that"^^xsd:string .
+
+<http://example.org/people/discrete__distributions> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "possible_decision_tree"^^xsd:string ;
+    ns1:property "used"^^xsd:string ;
+    ns1:subject "discrete__distributions"^^xsd:string .
+
+<http://example.org/people/documents> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "project_closure"^^xsd:string ;
+    ns1:property "updated"^^xsd:string ;
+    ns1:subject "documents"^^xsd:string .
+
+<http://example.org/people/duration_estimate_reviews> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "such_time_risk"^^xsd:string ;
+    ns1:property "are_useful"^^xsd:string ;
+    ns1:subject "duration_estimate_reviews"^^xsd:string .
+
+<http://example.org/people/each> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "varied_risk_condition"^^xsd:string ;
+    ns1:property "influence_on"^^xsd:string ;
+    ns1:subject "each"^^xsd:string .
+
+<http://example.org/people/effective__assessment> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "qualitative_risk_analysis_process"^^xsd:string ;
+    ns1:property "requires_explicit"^^xsd:string ;
+    ns1:subject "effective__assessment"^^xsd:string .
+
+<http://example.org/people/either> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "uncertain__project"^^xsd:string ;
+    ns1:property "be"^^xsd:string ;
+    ns1:subject "either"^^xsd:string .
+
+<http://example.org/people/emerging__that> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "emerging__risks"^^xsd:string ;
+    ns1:property "are"^^xsd:string ;
+    ns1:subject "emerging__that"^^xsd:string .
+
+<http://example.org/people/emv> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "possible__products"^^xsd:string ;
+    ns1:property "calculated_by"^^xsd:string ;
+    ns1:subject "emv"^^xsd:string .
+
+<http://example.org/people/enhance_strategy> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "positive__opportunity"^^xsd:string ;
+    ns1:property "used"^^xsd:string ;
+    ns1:subject "enhance_strategy"^^xsd:string .
+
+<http://example.org/people/enterprise> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "project_organizational_assets_plan_plan"^^xsd:string ;
+    ns1:property "develop"^^xsd:string ;
+    ns1:subject "enterprise"^^xsd:string .
+
+<http://example.org/people/entity> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "reward"^^xsd:string ;
+    ns1:property "influenced_by"^^xsd:string ;
+    ns1:subject "entity"^^xsd:string .
+
+<http://example.org/people/environmental_analysis_project_updates> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "organizational_assets_organization_figure"^^xsd:string ;
+    ns1:property "perform"^^xsd:string ;
+    ns1:subject "environmental_analysis_project_updates"^^xsd:string .
+
+<http://example.org/people/environmental_process_assets_factors> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "project_documents_figure"^^xsd:string ;
+    ns1:property "identify"^^xsd:string ;
+    ns1:subject "environmental_process_assets_factors"^^xsd:string .
+
+<http://example.org/people/establishing> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "bias"^^xsd:string ;
+    ns1:property "reduce"^^xsd:string ;
+    ns1:subject "establishing"^^xsd:string .
+
+<http://example.org/people/estimates> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "associated_confidence_levels"^^xsd:string ;
+    ns1:property "made_of_potential"^^xsd:string ;
+    ns1:subject "estimates"^^xsd:string .
+
+<http://example.org/people/estimates_funds> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "contingency_cost_reserves"^^xsd:string ;
+    ns1:property "needed"^^xsd:string ;
+    ns1:subject "estimates_funds"^^xsd:string .
+
+<http://example.org/people/evaluation> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "also_project_project"^^xsd:string,
+        "typically_lookup_table"^^xsd:string ;
+    ns1:property "conducted"^^xsd:string,
+        "helps"^^xsd:string ;
+    ns1:subject "evaluation"^^xsd:string .
+
+<http://example.org/people/even_project_which> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "effective_risk_responses"^^xsd:string ;
+    ns1:property "helps"^^xsd:string ;
+    ns1:subject "even_project_which"^^xsd:string .
+
+<http://example.org/people/event> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "impact"^^xsd:string ;
+    ns1:property "occur"^^xsd:string ;
+    ns1:subject "event"^^xsd:string .
+
+<http://example.org/people/example> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "figure"^^xsd:string,
+        "monetary_value_analysis"^^xsd:string ;
+    ns1:property "expected_monetary"^^xsd:string,
+        "shown_in"^^xsd:string ;
+    ns1:subject "example"^^xsd:string .
+
+<http://example.org/people/examples> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "more__activity"^^xsd:string,
+        "new_project_objectives"^^xsd:string,
+        "scope"^^xsd:string,
+        "three_point_figure"^^xsd:string ;
+    ns1:property "include"^^xsd:string,
+        "shown_in"^^xsd:string ;
+    ns1:subject "examples"^^xsd:string .
+
+<http://example.org/people/execution> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "performance_information"^^xsd:string ;
+    ns1:property "reviewed"^^xsd:string ;
+    ns1:subject "execution"^^xsd:string .
+
+<http://example.org/people/existing__it> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "project_events"^^xsd:string ;
+    ns1:property "is"^^xsd:string ;
+    ns1:subject "existing__it"^^xsd:string .
+
+<http://example.org/people/expert_judgment> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "also__data"^^xsd:string ;
+    ns1:property "comes_into"^^xsd:string ;
+    ns1:subject "expert_judgment"^^xsd:string .
+
+<http://example.org/people/expert_judgment_risks> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "similar__projects"^^xsd:string ;
+    ns1:property "identified"^^xsd:string ;
+    ns1:subject "expert_judgment_risks"^^xsd:string .
+
+<http://example.org/people/expertise> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "specialized_risk_responses"^^xsd:string ;
+    ns1:property "provided_by"^^xsd:string ;
+    ns1:subject "expertise"^^xsd:string .
+
+<http://example.org/people/experts> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "recent__projects"^^xsd:string,
+        "tools"^^xsd:string ;
+    ns1:property "are"^^xsd:string,
+        "be_able"^^xsd:string ;
+    ns1:subject "experts"^^xsd:string .
+
+<http://example.org/people/explanatory__detail> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "levels"^^xsd:string ;
+    ns1:property "recorded"^^xsd:string ;
+    ns1:subject "explanatory__detail"^^xsd:string .
+
+<http://example.org/people/express__parties> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "actions"^^xsd:string ;
+    ns1:property "include"^^xsd:string ;
+    ns1:subject "express__parties"^^xsd:string .
+
+<http://example.org/people/external_management_who> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "project"^^xsd:string ;
+    ns1:property "include"^^xsd:string ;
+    ns1:subject "external_management_who"^^xsd:string .
+
+<http://example.org/people/external_procurement_documents> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "identify_risks_process"^^xsd:string ;
+    ns1:property "become"^^xsd:string ;
+    ns1:subject "external_procurement_documents"^^xsd:string .
+
+<http://example.org/people/facilitator> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "important_project_risks"^^xsd:string ;
+    ns1:property "uses"^^xsd:string ;
+    ns1:subject "facilitator"^^xsd:string .
+
+<http://example.org/people/figure> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "data_flow_process"^^xsd:string ;
+    ns1:property "depicts"^^xsd:string ;
+    ns1:subject "figure"^^xsd:string .
+
+<http://example.org/people/figure__project> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "likely_cost_estimate"^^xsd:string ;
+    ns1:property "cost"^^xsd:string ;
+    ns1:subject "figure__project"^^xsd:string .
+
+<http://example.org/people/final__versions> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "risk_register"^^xsd:string ;
+    ns1:property "included"^^xsd:string ;
+    ns1:subject "final__versions"^^xsd:string .
+
+<http://example.org/people/fixedprice_contract> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "seller"^^xsd:string ;
+    ns1:property "transfer"^^xsd:string ;
+    ns1:subject "fixedprice_contract"^^xsd:string .
+
+<http://example.org/people/four__strategies> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "negative__risks"^^xsd:string ;
+    ns1:property "avoid"^^xsd:string ;
+    ns1:subject "four__strategies"^^xsd:string .
+
+<http://example.org/people/fourth__strategy> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "negative__risks"^^xsd:string ;
+    ns1:property "used_for_negative"^^xsd:string ;
+    ns1:subject "fourth__strategy"^^xsd:string .
+
+<http://example.org/people/frequency> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "situation"^^xsd:string ;
+    ns1:property "vary_by"^^xsd:string ;
+    ns1:subject "frequency"^^xsd:string .
+
+<http://example.org/people/fundamental__that> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "identified__risks"^^xsd:string ;
+    ns1:property "are"^^xsd:string ;
+    ns1:subject "fundamental__that"^^xsd:string .
+
+<http://example.org/people/future__performance> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "project_management_plan"^^xsd:string ;
+    ns1:property "are"^^xsd:string ;
+    ns1:subject "future__performance"^^xsd:string .
+
+<http://example.org/people/gathering> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "often_risk_facilitation_workshops"^^xsd:string ;
+    ns1:property "accomplished_with"^^xsd:string ;
+    ns1:subject "gathering"^^xsd:string .
+
+<http://example.org/people/general__definitions> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "subsequent_risk_management_processes"^^xsd:string ;
+    ns1:property "tailored_to"^^xsd:string ;
+    ns1:subject "general__definitions"^^xsd:string .
+
+<http://example.org/people/given__that> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "negative__outcomes"^^xsd:string ;
+    ns1:property "be"^^xsd:string ;
+    ns1:subject "given__that"^^xsd:string .
+
+<http://example.org/people/goal> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "comprehensive_project_risks"^^xsd:string ;
+    ns1:property "is"^^xsd:string ;
+    ns1:subject "goal"^^xsd:string .
+
+<http://example.org/people/good__that> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "overall__impact"^^xsd:string ;
+    ns1:property "are"^^xsd:string ;
+    ns1:subject "good__that"^^xsd:string .
+
+<http://example.org/people/gray__area> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "moderate__risk"^^xsd:string ;
+    ns1:property "represents_high"^^xsd:string ;
+    ns1:subject "gray__area"^^xsd:string .
+
+<http://example.org/people/gray__which> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "greatest__benefit"^^xsd:string ;
+    ns1:property "targeted"^^xsd:string ;
+    ns1:subject "gray__which"^^xsd:string .
+
+<http://example.org/people/greatest_cost_that> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "critical__path"^^xsd:string ;
+    ns1:property "include"^^xsd:string ;
+    ns1:subject "greatest_cost_that"^^xsd:string .
+
+<http://example.org/people/here__decision> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "existing_m_plant"^^xsd:string ;
+    ns1:property "note"^^xsd:string ;
+    ns1:subject "here__decision"^^xsd:string .
+
+<http://example.org/people/high__risks> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "detail"^^xsd:string ;
+    ns1:property "addressed_in"^^xsd:string ;
+    ns1:subject "high__risks"^^xsd:string .
+
+<http://example.org/people/high__that> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "high__those"^^xsd:string ;
+    ns1:property "is"^^xsd:string ;
+    ns1:subject "high__that"^^xsd:string .
+
+<http://example.org/people/highlevel_plans> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "risk_management_meetings"^^xsd:string ;
+    ns1:property "defined_in"^^xsd:string ;
+    ns1:subject "highlevel_plans"^^xsd:string .
+
+<http://example.org/people/histogram> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "total__iterations"^^xsd:string ;
+    ns1:property "calculated_from"^^xsd:string ;
+    ns1:subject "histogram"^^xsd:string .
+
+<http://example.org/people/historical__information> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "quantitative_risk_analysis_process"^^xsd:string ;
+    ns1:property "reflect_new"^^xsd:string ;
+    ns1:subject "historical__information"^^xsd:string .
+
+<http://example.org/people/historical__that> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "other__information"^^xsd:string ;
+    ns1:property "developed_based"^^xsd:string ;
+    ns1:subject "historical__that"^^xsd:string .
+
+<http://example.org/people/how__outcomes> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "risk_management_process"^^xsd:string ;
+    ns1:property "define"^^xsd:string ;
+    ns1:subject "how__outcomes"^^xsd:string .
+
+<http://example.org/people/how__project> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "objectives"^^xsd:string ;
+    ns1:property "depends_on"^^xsd:string ;
+    ns1:subject "how__project"^^xsd:string .
+
+<http://example.org/people/how__variations> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "different__uncertainties"^^xsd:string ;
+    ns1:property "helps"^^xsd:string ;
+    ns1:subject "how__variations"^^xsd:string .
+
+<http://example.org/people/how_contingency_reserves> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "well_budget_strategy"^^xsd:string ;
+    ns1:property "include"^^xsd:string ;
+    ns1:subject "how_contingency_reserves"^^xsd:string .
+
+<http://example.org/people/how_risk_management_activities> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "project_management_plan"^^xsd:string ;
+    ns1:property "plan"^^xsd:string ;
+    ns1:subject "how_risk_management_activities"^^xsd:string .
+
+<http://example.org/people/how_risk_management_processes> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "current__project"^^xsd:string ;
+    ns1:property "tracking"^^xsd:string ;
+    ns1:subject "how_risk_management_processes"^^xsd:string .
+
+<http://example.org/people/ideas> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "traditional_freeform_brainstorm_session"^^xsd:string ;
+    ns1:property "generated_under"^^xsd:string ;
+    ns1:subject "ideas"^^xsd:string .
+
+<http://example.org/people/identified__attention> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "it"^^xsd:string ;
+    ns1:property "paid_to"^^xsd:string ;
+    ns1:subject "identified__attention"^^xsd:string .
+
+<http://example.org/people/identified__risks> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "much__detail"^^xsd:string ;
+    ns1:property "described_in"^^xsd:string ;
+    ns1:subject "identified__risks"^^xsd:string .
+
+<http://example.org/people/identified_root_causes> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "risks"^^xsd:string ;
+    ns1:property "become"^^xsd:string ;
+    ns1:subject "identified_root_causes"^^xsd:string .
+
+<http://example.org/people/identify_risk_management_which> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "sometimes_risk_breakdown_structure"^^xsd:string ;
+    ns1:property "are"^^xsd:string ;
+    ns1:subject "identify_risk_management_which"^^xsd:string .
+
+<http://example.org/people/identify_risks_process> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "commercial__databases"^^xsd:string ;
+    ns1:property "include"^^xsd:string ;
+    ns1:subject "identify_risks_process"^^xsd:string .
+
+<http://example.org/people/identifying> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "key_positiveimpact_occurrence"^^xsd:string ;
+    ns1:property "increase"^^xsd:string ;
+    ns1:subject "identifying"^^xsd:string .
+
+<http://example.org/people/impact_definitions> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "similar__way"^^xsd:string ;
+    ns1:property "developed_for"^^xsd:string ;
+    ns1:subject "impact_definitions"^^xsd:string .
+
+<http://example.org/people/impact_project_risks> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "such_project_cost"^^xsd:string ;
+    ns1:property "assesses"^^xsd:string ;
+    ns1:subject "impact_project_risks"^^xsd:string .
+
+<http://example.org/people/important__components> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "low_risk_risks"^^xsd:string ;
+    ns1:property "plan_important"^^xsd:string ;
+    ns1:subject "important__components"^^xsd:string .
+
+<http://example.org/people/important_risk_they> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "analysis"^^xsd:string ;
+    ns1:property "are_important"^^xsd:string ;
+    ns1:subject "important_risk_they"^^xsd:string .
+
+<http://example.org/people/indicators> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "time_risk_response"^^xsd:string ;
+    ns1:property "include"^^xsd:string ;
+    ns1:subject "indicators"^^xsd:string .
+
+<http://example.org/people/individual__it> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "project_uncertainty"^^xsd:string ;
+    ns1:property "is_more"^^xsd:string ;
+    ns1:subject "individual__it"^^xsd:string .
+
+<http://example.org/people/individual_project_risks> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "overall_project_risk"^^xsd:string ;
+    ns1:property "are_different"^^xsd:string ;
+    ns1:subject "individual_project_risks"^^xsd:string .
+
+<http://example.org/people/influence_technique> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "generated__risks"^^xsd:string ;
+    ns1:property "perspectives"^^xsd:string ;
+    ns1:subject "influence_technique"^^xsd:string .
+
+<http://example.org/people/information> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "future_project_projects"^^xsd:string,
+        "information_gathering_brainstorming"^^xsd:string,
+        "used__distributions"^^xsd:string ;
+    ns1:property "gathered_on"^^xsd:string,
+        "help"^^xsd:string,
+        "include"^^xsd:string ;
+    ns1:subject "information"^^xsd:string .
+
+<http://example.org/people/inputs> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "figure"^^xsd:string,
+        "usually_risk_management_process"^^xsd:string ;
+    ns1:property "depicted_in"^^xsd:string,
+        "tailored_to"^^xsd:string ;
+    ns1:subject "inputs"^^xsd:string .
+
+<http://example.org/people/inputs_risk_management_plan> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "quantitative_risk_analysis"^^xsd:string ;
+    ns1:property "perform_quantitative"^^xsd:string ;
+    ns1:subject "inputs_risk_management_plan"^^xsd:string .
+
+<http://example.org/people/interviewing> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "experienced_subject_matter_risks"^^xsd:string ;
+    ns1:property "helps"^^xsd:string ;
+    ns1:subject "interviewing"^^xsd:string .
+
+<http://example.org/people/it> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "acceptable_threshold_limits"^^xsd:string,
+        "actively__it"^^xsd:string,
+        "aggregate__project"^^xsd:string,
+        "appropriate_risk_analysis_models"^^xsd:string,
+        "assumptions"^^xsd:string,
+        "back__buyer"^^xsd:string,
+        "better__data"^^xsd:string,
+        "budget"^^xsd:string,
+        "continuously_risk_responses"^^xsd:string,
+        "highpriority_risks"^^xsd:string,
+        "objective"^^xsd:string,
+        "one__impacts"^^xsd:string,
+        "one_risk_agreedto"^^xsd:string,
+        "overall__risk"^^xsd:string,
+        "project_outcome"^^xsd:string,
+        "quantitative_project_uncertainty"^^xsd:string,
+        "risk"^^xsd:string,
+        "risks"^^xsd:string,
+        "specific_cost_targets"^^xsd:string,
+        "usually_project_management_threat"^^xsd:string ;
+    ns1:property "are"^^xsd:string,
+        "be_necessary"^^xsd:string,
+        "be_possible"^^xsd:string,
+        "be_prudent"^^xsd:string,
+        "being_willing"^^xsd:string,
+        "describes"^^xsd:string,
+        "develop"^^xsd:string,
+        "have"^^xsd:string,
+        "identifies"^^xsd:string,
+        "illustrates"^^xsd:string,
+        "implies"^^xsd:string,
+        "includes"^^xsd:string,
+        "involves"^^xsd:string,
+        "is"^^xsd:string,
+        "rated_on"^^xsd:string,
+        "represents"^^xsd:string,
+        "requires"^^xsd:string,
+        "used"^^xsd:string ;
+    ns1:subject "it"^^xsd:string .
+
+<http://example.org/people/judgment_expert_judgment> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "figure"^^xsd:string,
+        "specific__risk"^^xsd:string,
+        "such_probability_tools"^^xsd:string ;
+    ns1:property "is"^^xsd:string,
+        "required"^^xsd:string ;
+    ns1:subject "judgment_expert_judgment"^^xsd:string .
+
+<http://example.org/people/key__stakeholders> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "identify_risks_process"^^xsd:string ;
+    ns1:property "is_useful"^^xsd:string ;
+    ns1:subject "key__stakeholders"^^xsd:string .
+
+<http://example.org/people/key__that> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "residual_contingency_reserves"^^xsd:string ;
+    ns1:property "has_key"^^xsd:string ;
+    ns1:subject "key__that"^^xsd:string .
+
+<http://example.org/people/key_project_personnel> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "potential__risks"^^xsd:string ;
+    ns1:property "encouraged"^^xsd:string ;
+    ns1:subject "key_project_personnel"^^xsd:string .
+
+<http://example.org/people/key_risk_management_elements> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "qualitative_risk_probability"^^xsd:string ;
+    ns1:property "perform_qualitative"^^xsd:string ;
+    ns1:subject "key_risk_management_elements"^^xsd:string .
+
+<http://example.org/people/level> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "interview"^^xsd:string ;
+    ns1:property "evaluated_during"^^xsd:string ;
+    ns1:subject "level"^^xsd:string .
+
+<http://example.org/people/likelihood> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "relatively_risk_simulation_results"^^xsd:string,
+        "us$_%"^^xsd:string ;
+    ns1:property "is"^^xsd:string,
+        "is_about"^^xsd:string ;
+    ns1:subject "likelihood"^^xsd:string .
+
+<http://example.org/people/log> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "new__information"^^xsd:string ;
+    ns1:property "needs"^^xsd:string ;
+    ns1:subject "log"^^xsd:string .
+
+<http://example.org/people/low__importance> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "usually__organization"^^xsd:string ;
+    ns1:property "set_by"^^xsd:string ;
+    ns1:subject "low__importance"^^xsd:string .
+
+<http://example.org/people/low__risk> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "high__objective"^^xsd:string ;
+    ns1:property "shown_in"^^xsd:string ;
+    ns1:subject "low__risk"^^xsd:string .
+
+<http://example.org/people/lowest__level> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "also_risk_checklist"^^xsd:string ;
+    ns1:property "used_as"^^xsd:string ;
+    ns1:subject "lowest__level"^^xsd:string .
+
+<http://example.org/people/major_project_examples> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "relative__project"^^xsd:string ;
+    ns1:property "shown"^^xsd:string ;
+    ns1:subject "major_project_examples"^^xsd:string .
+
+<http://example.org/people/management> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "qualitative_responses_risk_analysis"^^xsd:string ;
+    ns1:property "perform"^^xsd:string ;
+    ns1:subject "management"^^xsd:string .
+
+<http://example.org/people/management_cost_elements> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "project_budget"^^xsd:string ;
+    ns1:property "developed_for"^^xsd:string ;
+    ns1:subject "management_cost_elements"^^xsd:string .
+
+<http://example.org/people/management_plan_risk> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "management_risks"^^xsd:string ;
+    ns1:property "identify"^^xsd:string ;
+    ns1:subject "management_plan_risk"^^xsd:string .
+
+<http://example.org/people/many_control_processes> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "actual_variance_results"^^xsd:string ;
+    ns1:property "analysis_many"^^xsd:string ;
+    ns1:subject "many_control_processes"^^xsd:string .
+
+<http://example.org/people/many_project_risk> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "risk_identification_exercise"^^xsd:string ;
+    ns1:property "helps"^^xsd:string ;
+    ns1:subject "many_project_risk"^^xsd:string .
+
+<http://example.org/people/measurement_technical_performance_measurement> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "technical_project_achievement"^^xsd:string ;
+    ns1:property "compares_technical"^^xsd:string ;
+    ns1:subject "measurement_technical_performance_measurement"^^xsd:string .
+
+<http://example.org/people/meetings_project_teams> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "risk_management_plan"^^xsd:string ;
+    ns1:property "hold"^^xsd:string ;
+    ns1:subject "meetings_project_teams"^^xsd:string .
+
+<http://example.org/people/mitigation> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "benchscale_process"^^xsd:string ;
+    ns1:property "require"^^xsd:string ;
+    ns1:subject "mitigation"^^xsd:string .
+
+<http://example.org/people/modified_scope_baseline> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "changes"^^xsd:string ;
+    ns1:property "updated"^^xsd:string ;
+    ns1:subject "modified_scope_baseline"^^xsd:string .
+
+<http://example.org/people/more__people> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "risks"^^xsd:string ;
+    ns1:property "make"^^xsd:string ;
+    ns1:subject "more__people"^^xsd:string .
+
+<http://example.org/people/more__risk> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "more__damage"^^xsd:string ;
+    ns1:property "is"^^xsd:string ;
+    ns1:subject "more__risk"^^xsd:string .
+
+<http://example.org/people/moving> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "unmanaged_risk_threats"^^xsd:string ;
+    ns1:property "is_likely"^^xsd:string ;
+    ns1:subject "moving"^^xsd:string .
+
+<http://example.org/people/multidisciplinary__who> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "team"^^xsd:string ;
+    ns1:property "performs"^^xsd:string ;
+    ns1:subject "multidisciplinary__who"^^xsd:string .
+
+<http://example.org/people/negative__that> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "four_project_objectives"^^xsd:string ;
+    ns1:property "is"^^xsd:string ;
+    ns1:subject "negative__that"^^xsd:string .
+
+<http://example.org/people/negative_project_they> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "negative_project_objectives"^^xsd:string ;
+    ns1:property "are"^^xsd:string ;
+    ns1:subject "negative_project_they"^^xsd:string .
+
+<http://example.org/people/net__effect> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "costs"^^xsd:string ;
+    ns1:property "shows"^^xsd:string ;
+    ns1:subject "net__effect"^^xsd:string .
+
+<http://example.org/people/new__information> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "risk_responses"^^xsd:string ;
+    ns1:property "change"^^xsd:string ;
+    ns1:subject "new__information"^^xsd:string .
+
+<http://example.org/people/new_path_plant> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "$__m"^^xsd:string ;
+    ns1:property "."^^xsd:string ;
+    ns1:subject "new_path_plant"^^xsd:string .
+
+<http://example.org/people/numbers> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "when_risk_organization"^^xsd:string ;
+    ns1:property "established"^^xsd:string ;
+    ns1:subject "numbers"^^xsd:string .
+
+<http://example.org/people/objectives> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "negative_project_risk_project"^^xsd:string ;
+    ns1:property "are"^^xsd:string ;
+    ns1:subject "objectives"^^xsd:string .
+
+<http://example.org/people/obvious__that> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "early_concept_design"^^xsd:string ;
+    ns1:property "used"^^xsd:string ;
+    ns1:subject "obvious__that"^^xsd:string .
+
+<http://example.org/people/often__collection> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "more__time"^^xsd:string ;
+    ns1:property "is_difficult"^^xsd:string ;
+    ns1:subject "often__collection"^^xsd:string .
+
+<http://example.org/people/often_risk_management_processes> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "project_schedule"^^xsd:string ;
+    ns1:property "establishes"^^xsd:string ;
+    ns1:subject "often_risk_management_processes"^^xsd:string .
+
+<http://example.org/people/opportunities> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "gray__zone"^^xsd:string ;
+    ns1:property "monitored"^^xsd:string ;
+    ns1:subject "opportunities"^^xsd:string .
+
+<http://example.org/people/opportunity> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "positive__impacts"^^xsd:string ;
+    ns1:property "selected_for"^^xsd:string ;
+    ns1:subject "opportunity"^^xsd:string .
+
+<http://example.org/people/organization> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "high_impact_risk"^^xsd:string,
+        "proactively_risk_project"^^xsd:string,
+        "project"^^xsd:string,
+        "risk"^^xsd:string,
+        "that"^^xsd:string ;
+    ns1:property "be"^^xsd:string,
+        "committed"^^xsd:string,
+        "determine"^^xsd:string,
+        "include"^^xsd:string,
+        "tolerance"^^xsd:string ;
+    ns1:subject "organization"^^xsd:string .
+
+<http://example.org/people/organizational_process_assets> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object ""^^xsd:string ;
+    ns1:property "updates"^^xsd:string ;
+    ns1:subject "organizational_process_assets"^^xsd:string .
+
+<http://example.org/people/organizational_process_assets_updates> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object ""^^xsd:string ;
+    ns1:property "figure"^^xsd:string ;
+    ns1:subject "organizational_process_assets_updates"^^xsd:string .
+
+<http://example.org/people/organizational_risk_statement_lessons> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "actual_project_data"^^xsd:string ;
+    ns1:property "include"^^xsd:string ;
+    ns1:subject "organizational_risk_statement_lessons"^^xsd:string .
+
+<http://example.org/people/organizations> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "projects"^^xsd:string,
+        "varying_risk_attitude"^^xsd:string ;
+    ns1:property "are_willing"^^xsd:string,
+        "perceive"^^xsd:string ;
+    ns1:subject "organizations"^^xsd:string .
+
+<http://example.org/people/other__techniques> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "overall_project_context"^^xsd:string ;
+    ns1:property "used"^^xsd:string ;
+    ns1:subject "other__techniques"^^xsd:string .
+
+<http://example.org/people/other__they> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "meetings"^^xsd:string ;
+    ns1:property "generated_in"^^xsd:string ;
+    ns1:subject "other__they"^^xsd:string .
+
+<http://example.org/people/other__which> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "perception"^^xsd:string ;
+    ns1:property "driven_by"^^xsd:string ;
+    ns1:subject "other__which"^^xsd:string .
+
+<http://example.org/people/other_project_documents> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "assumptions_log_updates"^^xsd:string ;
+    ns1:property "include"^^xsd:string ;
+    ns1:subject "other_project_documents"^^xsd:string .
+
+<http://example.org/people/other_risk_management_they> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "register__time"^^xsd:string ;
+    ns1:property "contains"^^xsd:string ;
+    ns1:subject "other_risk_management_they"^^xsd:string .
+
+<http://example.org/people/outcomes> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "cost__targets"^^xsd:string,
+        "other_risk_register"^^xsd:string ;
+    ns1:property "forecast_potential"^^xsd:string,
+        "include"^^xsd:string ;
+    ns1:subject "outcomes"^^xsd:string .
+
+<http://example.org/people/output> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "cost_contingency_reserves"^^xsd:string,
+        "risk_figure"^^xsd:string ;
+    ns1:property "shown_in"^^xsd:string,
+        "used_with"^^xsd:string ;
+    ns1:subject "output"^^xsd:string .
+
+<http://example.org/people/outputs> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "risk_management_plan"^^xsd:string ;
+    ns1:property "summarized_in"^^xsd:string ;
+    ns1:subject "outputs"^^xsd:string .
+
+<http://example.org/people/outside__that> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "contractual_project_contract"^^xsd:string ;
+    ns1:property "includes"^^xsd:string ;
+    ns1:subject "outside__that"^^xsd:string .
+
+<http://example.org/people/overall_project_risk> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "quantitative_control_risks_process"^^xsd:string,
+        "whole"^^xsd:string ;
+    ns1:property "repeated"^^xsd:string,
+        "represents"^^xsd:string ;
+    ns1:subject "overall_project_risk"^^xsd:string .
+
+<http://example.org/people/perform> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object ""^^xsd:string,
+        "further_risk_occurrence"^^xsd:string,
+        "overall_project_objectives"^^xsd:string,
+        "quantitative_risk_analysis"^^xsd:string ;
+    ns1:property "integrated"^^xsd:string,
+        "is"^^xsd:string ;
+    ns1:subject "perform"^^xsd:string .
+
+<http://example.org/people/performance> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "project_management_plan"^^xsd:string ;
+    ns1:property "are"^^xsd:string ;
+    ns1:subject "performance"^^xsd:string .
+
+<http://example.org/people/periodically__it> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "periodically__threat"^^xsd:string ;
+    ns1:property "requires"^^xsd:string ;
+    ns1:subject "periodically__it"^^xsd:string .
+
+<http://example.org/people/plan> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "quality_procurement_management"^^xsd:string ;
+    ns1:property "plan"^^xsd:string ;
+    ns1:subject "plan"^^xsd:string .
+
+<http://example.org/people/plan_procurement_management> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "potential_project_procurement_sellers"^^xsd:string ;
+    ns1:property "is"^^xsd:string ;
+    ns1:subject "plan_procurement_management"^^xsd:string .
+
+<http://example.org/people/plan_risk> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "management_risks"^^xsd:string,
+        "plan_figure"^^xsd:string,
+        "project_documents_updates"^^xsd:string ;
+    ns1:property "develop"^^xsd:string,
+        "identify"^^xsd:string ;
+    ns1:subject "plan_risk"^^xsd:string .
+
+<http://example.org/people/plan_risk_management> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "how_risk_management_project"^^xsd:string ;
+    ns1:property "is"^^xsd:string ;
+    ns1:subject "plan_risk_management"^^xsd:string .
+
+<http://example.org/people/plan_risk_responses> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "objectives"^^xsd:string ;
+    ns1:property "is"^^xsd:string ;
+    ns1:subject "plan_risk_responses"^^xsd:string .
+
+<http://example.org/people/planning> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "other_planning_processes"^^xsd:string,
+        "sufficient_risk_management_risks"^^xsd:string ;
+    ns1:property "is"^^xsd:string,
+        "result_in"^^xsd:string ;
+    ns1:subject "planning"^^xsd:string .
+
+<http://example.org/people/positive__risks> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "commonly__opportunities"^^xsd:string ;
+    ns1:property "referred_to"^^xsd:string ;
+    ns1:subject "positive__risks"^^xsd:string .
+
+<http://example.org/people/positive__those> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "negative__values"^^xsd:string ;
+    ns1:property "expressed_as_positive"^^xsd:string ;
+    ns1:subject "positive__those"^^xsd:string .
+
+<http://example.org/people/potential__responses> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "identify_risks_process"^^xsd:string ;
+    ns1:property "identified_during"^^xsd:string ;
+    ns1:subject "potential__responses"^^xsd:string .
+
+<http://example.org/people/predefined__it> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "sufficient__plan"^^xsd:string ;
+    ns1:property "is_appropriate"^^xsd:string ;
+    ns1:subject "predefined__it"^^xsd:string .
+
+<http://example.org/people/preparation> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "identified_risk_risks"^^xsd:string ;
+    ns1:property "begins_in"^^xsd:string ;
+    ns1:subject "preparation"^^xsd:string .
+
+<http://example.org/people/prepared_custom_categorization_which> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "simple__rbs"^^xsd:string ;
+    ns1:property "use"^^xsd:string ;
+    ns1:subject "prepared_custom_categorization_which"^^xsd:string .
+
+<http://example.org/people/primary__output> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "initial_risk_register"^^xsd:string ;
+    ns1:property "register"^^xsd:string ;
+    ns1:subject "primary__output"^^xsd:string .
+
+<http://example.org/people/probability> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object ""^^xsd:string,
+        "identified__risk"^^xsd:string,
+        "quantitative_risk_analysis_results"^^xsd:string ;
+    ns1:property "assessed_for"^^xsd:string,
+        "estimated"^^xsd:string,
+        "opportunities"^^xsd:string ;
+    ns1:subject "probability"^^xsd:string .
+
+<http://example.org/people/probability_that> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "probability_distributions"^^xsd:string ;
+    ns1:property "depends_upon"^^xsd:string ;
+    ns1:subject "probability_that"^^xsd:string .
+
+<http://example.org/people/process> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "quantitative_risk_analysis"^^xsd:string ;
+    ns1:property "lead_into_perform"^^xsd:string ;
+    ns1:subject "process"^^xsd:string .
+
+<http://example.org/people/processes> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "other_knowledge_section"^^xsd:string ;
+    ns1:property "interact_with"^^xsd:string ;
+    ns1:subject "processes"^^xsd:string .
+
+<http://example.org/people/procurement_management_plan> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "such_risk_responses"^^xsd:string ;
+    ns1:property "updated"^^xsd:string ;
+    ns1:subject "procurement_management_plan"^^xsd:string .
+
+<http://example.org/people/procurement_management_which> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "following"^^xsd:string ;
+    ns1:property "provides"^^xsd:string ;
+    ns1:subject "procurement_management_which"^^xsd:string .
+
+<http://example.org/people/project> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "life_cycle"^^xsd:string,
+        "moment"^^xsd:string,
+        "project_documents_management"^^xsd:string ;
+    ns1:property "develop"^^xsd:string,
+        "exist_at"^^xsd:string,
+        "is"^^xsd:string ;
+    ns1:subject "project"^^xsd:string .
+
+<http://example.org/people/project_assumptions> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "project_scope_statement"^^xsd:string ;
+    ns1:property "found_in"^^xsd:string ;
+    ns1:subject "project_assumptions"^^xsd:string .
+
+<http://example.org/people/project_charter> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "project_charter"^^xsd:string,
+        "such_highlevel_risks"^^xsd:string ;
+    ns1:property "develop"^^xsd:string,
+        "provide_various"^^xsd:string ;
+    ns1:subject "project_charter"^^xsd:string .
+
+<http://example.org/people/project_documents> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object ""^^xsd:string,
+        "figure"^^xsd:string,
+        "other_quality_risks"^^xsd:string,
+        "quantitative_risk_analysis"^^xsd:string ;
+    ns1:property "improve"^^xsd:string,
+        "updates"^^xsd:string ;
+    ns1:subject "project_documents"^^xsd:string .
+
+<http://example.org/people/project_documents_risks> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object ""^^xsd:string ;
+    ns1:property "updates"^^xsd:string ;
+    ns1:subject "project_documents_risks"^^xsd:string .
+
+<http://example.org/people/project_human_project_resources> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "guidance"^^xsd:string ;
+    ns1:property "provides"^^xsd:string ;
+    ns1:subject "project_human_project_resources"^^xsd:string .
+
+<http://example.org/people/project_management_plan> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object ""^^xsd:string,
+        "riskaffected__scope"^^xsd:string ;
+    ns1:property "provides"^^xsd:string,
+        "reports"^^xsd:string ;
+    ns1:subject "project_management_plan"^^xsd:string .
+
+<http://example.org/people/project_management_that> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "risk_responses_process"^^xsd:string,
+        "schedule_management_plan"^^xsd:string ;
+    ns1:property "are"^^xsd:string,
+        "updates"^^xsd:string ;
+    ns1:subject "project_management_that"^^xsd:string .
+
+<http://example.org/people/project_manager> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "quantitative_risk_analysis"^^xsd:string ;
+    ns1:property "exercise_expert"^^xsd:string ;
+    ns1:subject "project_manager"^^xsd:string .
+
+<http://example.org/people/project_plan> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "documents_risks_updates"^^xsd:string ;
+    ns1:property "identify"^^xsd:string ;
+    ns1:subject "project_plan"^^xsd:string .
+
+<http://example.org/people/project_procurement_management> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "authorized_project_team_members"^^xsd:string,
+        "necessary_project_team"^^xsd:string ;
+    ns1:property "includes"^^xsd:string ;
+    ns1:subject "project_procurement_management"^^xsd:string .
+
+<http://example.org/people/project_responses> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "each"^^xsd:string ;
+    ns1:property "include"^^xsd:string ;
+    ns1:subject "project_responses"^^xsd:string .
+
+<http://example.org/people/project_risk> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "present__projects"^^xsd:string,
+        "project_objectives"^^xsd:string ;
+    ns1:property "has"^^xsd:string,
+        "is"^^xsd:string ;
+    ns1:subject "project_risk"^^xsd:string .
+
+<http://example.org/people/project_risk_experts> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "technique"^^xsd:string ;
+    ns1:property "participate_in"^^xsd:string ;
+    ns1:subject "project_risk_experts"^^xsd:string .
+
+<http://example.org/people/project_risk_management> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object ""^^xsd:string,
+        "other_risk_management_processes"^^xsd:string,
+        "periodic_status_meetings"^^xsd:string,
+        "qualitative_risk_analysis_process"^^xsd:string,
+        "quantitative_risk_rating"^^xsd:string,
+        "response_project"^^xsd:string,
+        "tools__outputs"^^xsd:string ;
+    ns1:property "be"^^xsd:string,
+        "durations"^^xsd:string,
+        "enhances"^^xsd:string,
+        "follows"^^xsd:string,
+        "includes"^^xsd:string,
+        "inputs"^^xsd:string,
+        "interviewing"^^xsd:string,
+        "prioritized_for_further"^^xsd:string ;
+    ns1:subject "project_risk_management"^^xsd:string .
+
+<http://example.org/people/project_risk_organization> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "separately__objective"^^xsd:string ;
+    ns1:property "rate"^^xsd:string ;
+    ns1:subject "project_risk_organization"^^xsd:string .
+
+<http://example.org/people/project_risk_reassessments> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object ""^^xsd:string ;
+    ns1:property "scheduled"^^xsd:string ;
+    ns1:subject "project_risk_reassessments"^^xsd:string .
+
+<http://example.org/people/project_team> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "appropriate_risk_management_activities"^^xsd:string,
+        "suitable_response_strategy"^^xsd:string ;
+    ns1:property "allocate_appropriate"^^xsd:string,
+        "indicates"^^xsd:string ;
+    ns1:subject "project_team"^^xsd:string .
+
+<http://example.org/people/project_team_members> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "external__project"^^xsd:string ;
+    ns1:property "included"^^xsd:string ;
+    ns1:subject "project_team_members"^^xsd:string .
+
+<http://example.org/people/project_that> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "better_project_risks"^^xsd:string,
+        "risk_register"^^xsd:string,
+        "risk_register_updates"^^xsd:string ;
+    ns1:property "include"^^xsd:string,
+        "provide"^^xsd:string ;
+    ns1:subject "project_that"^^xsd:string .
+
+<http://example.org/people/project_they> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "risks"^^xsd:string ;
+    ns1:property "involve"^^xsd:string ;
+    ns1:subject "project_they"^^xsd:string .
+
+<http://example.org/people/project_work> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "new__risks"^^xsd:string ;
+    ns1:property "risks"^^xsd:string ;
+    ns1:subject "project_work"^^xsd:string .
+
+<http://example.org/people/projects> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "more__uncertainty"^^xsd:string,
+        "more_wellunderstood_risks"^^xsd:string ;
+    ns1:property "tend"^^xsd:string ;
+    ns1:subject "projects"^^xsd:string .
+
+<http://example.org/people/qualitative_risk_analysis> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "further__occurrence"^^xsd:string ;
+    ns1:property "is"^^xsd:string ;
+    ns1:subject "qualitative_risk_analysis"^^xsd:string .
+
+<http://example.org/people/qualitative_risk_analysis_process> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "regularly_risk_management_plan"^^xsd:string ;
+    ns1:property "performed"^^xsd:string ;
+    ns1:subject "qualitative_risk_analysis_process"^^xsd:string .
+
+<http://example.org/people/qualitative_risk_assumptions> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "qualitative_risk_assessment"^^xsd:string ;
+    ns1:property "change"^^xsd:string ;
+    ns1:subject "qualitative_risk_assumptions"^^xsd:string .
+
+<http://example.org/people/qualitative_risk_register> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "qualitative_risk_assessment"^^xsd:string ;
+    ns1:property "updated"^^xsd:string ;
+    ns1:subject "qualitative_risk_register"^^xsd:string .
+
+<http://example.org/people/qualitative_watch_which> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "low_risk_register"^^xsd:string ;
+    ns1:property "register"^^xsd:string ;
+    ns1:subject "qualitative_watch_which"^^xsd:string .
+
+<http://example.org/people/quality> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "well_project_project"^^xsd:string ;
+    ns1:property "be"^^xsd:string ;
+    ns1:subject "quality"^^xsd:string .
+
+<http://example.org/people/quality_estimate_costs> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "estimates_risk_register"^^xsd:string ;
+    ns1:property "identify"^^xsd:string ;
+    ns1:subject "quality_estimate_costs"^^xsd:string .
+
+<http://example.org/people/quality_management_plan> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "quality_risks"^^xsd:string,
+        "risk_responses"^^xsd:string ;
+    ns1:property "provides"^^xsd:string,
+        "updated"^^xsd:string ;
+    ns1:subject "quality_management_plan"^^xsd:string .
+
+<http://example.org/people/quantitative__analysis> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "negative__impacts"^^xsd:string ;
+    ns1:property "is"^^xsd:string ;
+    ns1:subject "quantitative__analysis"^^xsd:string .
+
+<http://example.org/people/quantitative__process> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "numerical_priority_risks"^^xsd:string ;
+    ns1:property "used"^^xsd:string ;
+    ns1:subject "quantitative__process"^^xsd:string .
+
+<http://example.org/people/quantitative_data_gathering> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "quantitative_risk_analysis"^^xsd:string ;
+    ns1:property "interviewing"^^xsd:string ;
+    ns1:subject "quantitative_data_gathering"^^xsd:string .
+
+<http://example.org/people/quantitative_documents_risk_analysis> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "environmental_organization_factors_figure"^^xsd:string ;
+    ns1:property "perform"^^xsd:string ;
+    ns1:subject "quantitative_documents_risk_analysis"^^xsd:string .
+
+<http://example.org/people/quantitative_risk_analysis> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "overall_project_objectives"^^xsd:string ;
+    ns1:property "is"^^xsd:string ;
+    ns1:subject "quantitative_risk_analysis"^^xsd:string .
+
+<http://example.org/people/quantitative_risk_analysis_process> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "project_objectives"^^xsd:string ;
+    ns1:property "analyzes"^^xsd:string ;
+    ns1:subject "quantitative_risk_analysis_process"^^xsd:string .
+
+<http://example.org/people/radical_avoidance_strategy> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "project"^^xsd:string ;
+    ns1:property "is"^^xsd:string ;
+    ns1:subject "radical_avoidance_strategy"^^xsd:string .
+
+<http://example.org/people/ratings> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "assessed__probability"^^xsd:string ;
+    ns1:property "assigned_to"^^xsd:string ;
+    ns1:subject "ratings"^^xsd:string .
+
+<http://example.org/people/rbs> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "hierarchical_risk_categories"^^xsd:string ;
+    ns1:property "is"^^xsd:string ;
+    ns1:subject "rbs"^^xsd:string .
+
+<http://example.org/people/relevant_m_stakeholders> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "triangular_wbs_distributions"^^xsd:string ;
+    ns1:property "helps"^^xsd:string ;
+    ns1:subject "relevant_m_stakeholders"^^xsd:string .
+
+<http://example.org/people/remaining_contingency_reserve> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "contingency_order"^^xsd:string ;
+    ns1:property "compares"^^xsd:string ;
+    ns1:subject "remaining_contingency_reserve"^^xsd:string .
+
+<http://example.org/people/reserve_application_approaches> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object ""^^xsd:string ;
+    ns1:property "established"^^xsd:string ;
+    ns1:subject "reserve_application_approaches"^^xsd:string .
+
+<http://example.org/people/reserve_risks> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "budget_contingency_reserves"^^xsd:string ;
+    ns1:property "occur_with_positive"^^xsd:string ;
+    ns1:subject "reserve_risks"^^xsd:string .
+
+<http://example.org/people/resource> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "analysis_human_resource_management_plan"^^xsd:string ;
+    ns1:property "perform"^^xsd:string ;
+    ns1:subject "resource"^^xsd:string .
+
+<http://example.org/people/responses> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "further__comment"^^xsd:string,
+        "risk_responses_process"^^xsd:string ;
+    ns1:property "summarized"^^xsd:string,
+        "used_as"^^xsd:string ;
+    ns1:subject "responses"^^xsd:string .
+
+<http://example.org/people/results> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "risk_analysis"^^xsd:string ;
+    ns1:property "is"^^xsd:string ;
+    ns1:subject "results"^^xsd:string .
+
+<http://example.org/people/review> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "i.e.__project"^^xsd:string ;
+    ns1:property "pose"^^xsd:string ;
+    ns1:subject "review"^^xsd:string .
+
+<http://example.org/people/risk> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object ""^^xsd:string,
+        "action"^^xsd:string,
+        "risk"^^xsd:string ;
+    ns1:property "involves"^^xsd:string,
+        "is"^^xsd:string,
+        "register"^^xsd:string ;
+    ns1:subject "risk"^^xsd:string .
+
+<http://example.org/people/risk_analysis_tools> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "appropriate_decision_tree_responses"^^xsd:string ;
+    ns1:property "used"^^xsd:string ;
+    ns1:subject "risk_analysis_tools"^^xsd:string .
+
+<http://example.org/people/risk_assumptions> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "risk_responses"^^xsd:string ;
+    ns1:property "change"^^xsd:string ;
+    ns1:subject "risk_assumptions"^^xsd:string .
+
+<http://example.org/people/risk_audits> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "appropriate__project"^^xsd:string ;
+    ns1:property "is_responsible"^^xsd:string ;
+    ns1:subject "risk_audits"^^xsd:string .
+
+<http://example.org/people/risk_impact_assessment> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "positive_project_opportunities"^^xsd:string ;
+    ns1:property "investigates"^^xsd:string ;
+    ns1:subject "risk_impact_assessment"^^xsd:string .
+
+<http://example.org/people/risk_management_context> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "overall_project_context"^^xsd:string ;
+    ns1:property "is"^^xsd:string ;
+    ns1:subject "risk_management_context"^^xsd:string .
+
+<http://example.org/people/risk_management_participants> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "subject_project_team"^^xsd:string ;
+    ns1:property "identify"^^xsd:string ;
+    ns1:subject "risk_management_participants"^^xsd:string .
+
+<http://example.org/people/risk_management_plan> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "also_project_management_plan"^^xsd:string,
+        "cost_management_plan"^^xsd:string,
+        "following"^^xsd:string,
+        "them"^^xsd:string ;
+    ns1:property "costs"^^xsd:string,
+        "includes"^^xsd:string,
+        "is"^^xsd:string,
+        "taken_into"^^xsd:string ;
+    ns1:subject "risk_management_plan"^^xsd:string .
+
+<http://example.org/people/risk_management_process> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "effectively_project_life_cycle"^^xsd:string ;
+    ns1:property "is_vital"^^xsd:string ;
+    ns1:subject "risk_management_process"^^xsd:string .
+
+<http://example.org/people/risk_management_responsibilities> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object ""^^xsd:string ;
+    ns1:property "assigned"^^xsd:string ;
+    ns1:subject "risk_management_responsibilities"^^xsd:string .
+
+<http://example.org/people/risk_management_which> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "risk_management_processes"^^xsd:string ;
+    ns1:property "provides"^^xsd:string ;
+    ns1:subject "risk_management_which"^^xsd:string .
+
+<http://example.org/people/risk_organization> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "different_risk_response"^^xsd:string,
+        "risk"^^xsd:string ;
+    ns1:property "accept"^^xsd:string,
+        "include"^^xsd:string,
+        "tolerate"^^xsd:string ;
+    ns1:subject "risk_organization"^^xsd:string .
+
+<http://example.org/people/risk_probabilities> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "risk_management_plan"^^xsd:string ;
+    ns1:property "rated_according"^^xsd:string ;
+    ns1:subject "risk_probabilities"^^xsd:string .
+
+<http://example.org/people/risk_profile_analysis> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "stakeholder_risk_appetite"^^xsd:string ;
+    ns1:property "performed_to"^^xsd:string ;
+    ns1:subject "risk_profile_analysis"^^xsd:string .
+
+<http://example.org/people/risk_rating_rules> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "specific_risk_management_project"^^xsd:string ;
+    ns1:property "tailored_in"^^xsd:string ;
+    ns1:subject "risk_rating_rules"^^xsd:string .
+
+<http://example.org/people/risk_register> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "quantitative_risk_analysis"^^xsd:string ;
+    ns1:property "used_as"^^xsd:string ;
+    ns1:subject "risk_register"^^xsd:string .
+
+<http://example.org/people/risk_register_updates> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "probabilistic__project"^^xsd:string,
+        "risk_reassessments"^^xsd:string ;
+    ns1:property "include"^^xsd:string ;
+    ns1:subject "risk_register_updates"^^xsd:string .
+
+<http://example.org/people/risk_response_owner> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "unanticipated_project_risk"^^xsd:string ;
+    ns1:property "reports"^^xsd:string ;
+    ns1:subject "risk_response_owner"^^xsd:string .
+
+<http://example.org/people/risk_response_plan> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "desired__effect"^^xsd:string ;
+    ns1:property "is"^^xsd:string ;
+    ns1:subject "risk_response_plan"^^xsd:string .
+
+<http://example.org/people/risk_responses> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "objectives"^^xsd:string,
+        "perceived_risk_taking"^^xsd:string,
+        "responsible_project_person"^^xsd:string ;
+    ns1:property "be_appropriate"^^xsd:string,
+        "plan"^^xsd:string,
+        "reflect"^^xsd:string ;
+    ns1:subject "risk_responses"^^xsd:string .
+
+<http://example.org/people/risk_responses_process> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "commonly__risks"^^xsd:string,
+        "quantitative_risk_analysis_process"^^xsd:string ;
+    ns1:property "follows"^^xsd:string,
+        "used"^^xsd:string ;
+    ns1:subject "risk_responses_process"^^xsd:string .
+
+<http://example.org/people/risk_risk> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "effective__analysis"^^xsd:string ;
+    ns1:property "be_consistent"^^xsd:string ;
+    ns1:subject "risk_risk"^^xsd:string .
+
+<http://example.org/people/risk_score> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "risk_responses"^^xsd:string ;
+    ns1:property "helps"^^xsd:string ;
+    ns1:subject "risk_score"^^xsd:string .
+
+<http://example.org/people/risk_statement> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "one__project"^^xsd:string ;
+    ns1:property "support"^^xsd:string ;
+    ns1:subject "risk_statement"^^xsd:string .
+
+<http://example.org/people/risk_that> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "final_risk_severity_rating"^^xsd:string,
+        "project_context"^^xsd:string,
+        "severity"^^xsd:string ;
+    ns1:property "address"^^xsd:string,
+        "combined_with"^^xsd:string,
+        "requires"^^xsd:string ;
+    ns1:subject "risk_that"^^xsd:string .
+
+<http://example.org/people/risk_tools> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "several_risk_response_strategies"^^xsd:string ;
+    ns1:property "are_available"^^xsd:string ;
+    ns1:subject "risk_tools"^^xsd:string .
+
+<http://example.org/people/risk_transference> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "always_risk_risk"^^xsd:string ;
+    ns1:property "involves"^^xsd:string ;
+    ns1:subject "risk_transference"^^xsd:string .
+
+<http://example.org/people/riskneutral__risk> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "riskneutral__assumption"^^xsd:string ;
+    ns1:property "averse"^^xsd:string ;
+    ns1:subject "riskneutral__risk"^^xsd:string .
+
+<http://example.org/people/riskrating__rules> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "organizational_process_assets"^^xsd:string ;
+    ns1:property "specified_by"^^xsd:string ;
+    ns1:subject "riskrating__rules"^^xsd:string .
+
+<http://example.org/people/risks> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "characteristics"^^xsd:string,
+        "common_root_causes"^^xsd:string,
+        "future_watch_monitoring"^^xsd:string,
+        "periodic_watch_monitoring"^^xsd:string,
+        "potential__project"^^xsd:string,
+        "risk_agenda"^^xsd:string,
+        "simulation_analysis"^^xsd:string ;
+    ns1:property "assessed_in"^^xsd:string,
+        "categorized_by_common"^^xsd:string,
+        "evaluated"^^xsd:string,
+        "helps"^^xsd:string,
+        "included_within"^^xsd:string,
+        "is"^^xsd:string,
+        "judged"^^xsd:string,
+        "prioritized_according"^^xsd:string ;
+    ns1:subject "risks"^^xsd:string .
+
+<http://example.org/people/risks_control_risks> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "new_risk_process_project"^^xsd:string ;
+    ns1:property "is"^^xsd:string ;
+    ns1:subject "risks_control_risks"^^xsd:string .
+
+<http://example.org/people/routine_project_review_team> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "separate_risk_audit_meetings"^^xsd:string ;
+    ns1:property "included_during_routine"^^xsd:string ;
+    ns1:subject "routine_project_review_team"^^xsd:string .
+
+<http://example.org/people/schedule_management_plan> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "risk_reserves"^^xsd:string,
+        "risk_responses"^^xsd:string ;
+    ns1:property "provides"^^xsd:string,
+        "updated"^^xsd:string ;
+    ns1:subject "schedule_management_plan"^^xsd:string .
+
+<http://example.org/people/schedule_network_diagram> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "schedule_risk_analysis"^^xsd:string ;
+    ns1:property "used"^^xsd:string ;
+    ns1:subject "schedule_network_diagram"^^xsd:string .
+
+<http://example.org/people/scope> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object ""^^xsd:string ;
+    ns1:property "baseline"^^xsd:string,
+        "updates"^^xsd:string ;
+    ns1:subject "scope"^^xsd:string .
+
+<http://example.org/people/secondary__risks> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object ""^^xsd:string ;
+    ns1:property "reviewed"^^xsd:string ;
+    ns1:subject "secondary__risks"^^xsd:string .
+
+<http://example.org/people/selected_project_team_anyone> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "planning__activities"^^xsd:string ;
+    ns1:property "include"^^xsd:string ;
+    ns1:subject "selected_project_team_anyone"^^xsd:string .
+
+<http://example.org/people/selecting> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "several_risk_options"^^xsd:string ;
+    ns1:property "required"^^xsd:string ;
+    ns1:subject "selecting"^^xsd:string .
+
+<http://example.org/people/senior_project_who> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "business_matter_area"^^xsd:string ;
+    ns1:property "considered_from"^^xsd:string ;
+    ns1:subject "senior_project_who"^^xsd:string .
+
+<http://example.org/people/several__approaches> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "project_category"^^xsd:string ;
+    ns1:property "used"^^xsd:string ;
+    ns1:subject "several__approaches"^^xsd:string .
+
+<http://example.org/people/several_project_documents> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "risk_responses_process"^^xsd:string ;
+    ns1:property "updated"^^xsd:string ;
+    ns1:subject "several_project_documents"^^xsd:string .
+
+<http://example.org/people/similar__curves> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "other_project_objectives"^^xsd:string ;
+    ns1:property "developed_for_other"^^xsd:string ;
+    ns1:subject "similar__curves"^^xsd:string .
+
+<http://example.org/people/similar__tables> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "positive_impact_perspective"^^xsd:string ;
+    ns1:property "established_with"^^xsd:string ;
+    ns1:subject "similar__tables"^^xsd:string .
+
+<http://example.org/people/similar_risk_that> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "industry"^^xsd:string ;
+    ns1:property "provide"^^xsd:string ;
+    ns1:subject "similar_risk_that"^^xsd:string .
+
+<http://example.org/people/simply_party_it> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "it"^^xsd:string ;
+    ns1:property "eliminate"^^xsd:string ;
+    ns1:subject "simply_party_it"^^xsd:string .
+
+<http://example.org/people/simulations> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "monte_carlo_technique"^^xsd:string ;
+    ns1:property "performed"^^xsd:string ;
+    ns1:subject "simulations"^^xsd:string .
+
+<http://example.org/people/specific__actions> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "primary__strategies"^^xsd:string ;
+    ns1:property "developed"^^xsd:string ;
+    ns1:subject "specific__actions"^^xsd:string .
+
+<http://example.org/people/specific__tool> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "more__organization"^^xsd:string ;
+    ns1:property "determine"^^xsd:string ;
+    ns1:subject "specific__tool"^^xsd:string .
+
+<http://example.org/people/specific_risk_probability_risk> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "risk_probability_likelihood"^^xsd:string ;
+    ns1:property "investigates"^^xsd:string ;
+    ns1:subject "specific_risk_probability_risk"^^xsd:string .
+
+<http://example.org/people/specific_risk_thresholds_responses> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "risk_thresholds_which"^^xsd:string ;
+    ns1:property "help"^^xsd:string ;
+    ns1:subject "specific_risk_thresholds_responses"^^xsd:string .
+
+<http://example.org/people/staffing_management_plan> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "organizational_risk_responses"^^xsd:string ;
+    ns1:property "updated"^^xsd:string ;
+    ns1:subject "staffing_management_plan"^^xsd:string .
+
+<http://example.org/people/stakeholder> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "specific__interest"^^xsd:string ;
+    ns1:property "threshold"^^xsd:string ;
+    ns1:subject "stakeholder"^^xsd:string .
+
+<http://example.org/people/stakeholders> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "objective_project_information"^^xsd:string ;
+    ns1:property "provide_additional"^^xsd:string ;
+    ns1:subject "stakeholders"^^xsd:string .
+
+<http://example.org/people/standard_decision_lessons> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "standard_decision_making"^^xsd:string ;
+    ns1:property "include"^^xsd:string ;
+    ns1:subject "standard_decision_lessons"^^xsd:string .
+
+<http://example.org/people/strategies> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object ""^^xsd:string,
+        "positive_project_objectives"^^xsd:string,
+        "project"^^xsd:string ;
+    ns1:property "are"^^xsd:string,
+        "chosen"^^xsd:string,
+        "suggested"^^xsd:string ;
+    ns1:subject "strategies"^^xsd:string .
+
+<http://example.org/people/strategy> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object ""^^xsd:string,
+        "likely__risk"^^xsd:string,
+        "upside__opportunity"^^xsd:string ;
+    ns1:property "be"^^xsd:string,
+        "seeks"^^xsd:string,
+        "selected_for"^^xsd:string ;
+    ns1:subject "strategy"^^xsd:string .
+
+<http://example.org/people/strong__demand> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "upgraded_capacity_plant"^^xsd:string ;
+    ns1:property "leads_to"^^xsd:string ;
+    ns1:subject "strong__demand"^^xsd:string .
+
+<http://example.org/people/structured__review> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "project_plans"^^xsd:string ;
+    ns1:property "performed"^^xsd:string ;
+    ns1:subject "structured__review"^^xsd:string .
+
+<http://example.org/people/subsequently_control_and/or> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "package_levels"^^xsd:string ;
+    ns1:property "identified"^^xsd:string ;
+    ns1:subject "subsequently_control_and/or"^^xsd:string .
+
+<http://example.org/people/such__assessments> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "project_team"^^xsd:string ;
+    ns1:property "reflect"^^xsd:string ;
+    ns1:subject "such__assessments"^^xsd:string .
+
+<http://example.org/people/such__experts> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "previous_project_expertise"^^xsd:string ;
+    ns1:property "identified_by"^^xsd:string ;
+    ns1:subject "such__experts"^^xsd:string .
+
+<http://example.org/people/such__history> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "quantitative_risk_analysis_report"^^xsd:string ;
+    ns1:property "take"^^xsd:string ;
+    ns1:subject "such__history"^^xsd:string .
+
+<http://example.org/people/such_contingency_reserves> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "acceptable_project_organization"^^xsd:string ;
+    ns1:property "needed"^^xsd:string ;
+    ns1:subject "such_contingency_reserves"^^xsd:string .
+
+<http://example.org/people/such_risk_probability> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "specific_impact_project"^^xsd:string ;
+    ns1:property "probability_by"^^xsd:string ;
+    ns1:subject "such_risk_probability"^^xsd:string .
+
+<http://example.org/people/such_trend_which> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "project_execution"^^xsd:string ;
+    ns1:property "applies"^^xsd:string ;
+    ns1:subject "such_trend_which"^^xsd:string .
+
+<http://example.org/people/supporting__documentation> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "new__information"^^xsd:string ;
+    ns1:property "needs"^^xsd:string ;
+    ns1:subject "supporting__documentation"^^xsd:string .
+
+<http://example.org/people/table> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "relative__approaches"^^xsd:string ;
+    ns1:property "illustrates"^^xsd:string ;
+    ns1:subject "table"^^xsd:string .
+
+<http://example.org/people/technical__performance> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "measurement"^^xsd:string ;
+    ns1:property "updates"^^xsd:string ;
+    ns1:subject "technical__performance"^^xsd:string .
+
+<http://example.org/people/technical__which> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "actual__targets"^^xsd:string ;
+    ns1:property "requires"^^xsd:string ;
+    ns1:subject "technical__which"^^xsd:string .
+
+<http://example.org/people/technical_performance_measures> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "delivered_transaction_defects"^^xsd:string ;
+    ns1:property "include"^^xsd:string ;
+    ns1:subject "technical_performance_measures"^^xsd:string .
+
+<http://example.org/people/technique> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "project"^^xsd:string ;
+    ns1:property "starts_with"^^xsd:string ;
+    ns1:subject "technique"^^xsd:string .
+
+<http://example.org/people/techniques> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "historical_project_objectives"^^xsd:string ;
+    ns1:property "draw_on"^^xsd:string ;
+    ns1:subject "techniques"^^xsd:string .
+
+<http://example.org/people/that> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object ""^^xsd:string,
+        "completed_risk_analysis_projects"^^xsd:string,
+        "direct_risk_response"^^xsd:string,
+        "early__expertise"^^xsd:string,
+        "enhanced_risk_value"^^xsd:string,
+        "gray_priority_action"^^xsd:string,
+        "greatest__project"^^xsd:string,
+        "higher_contingency_supplier"^^xsd:string,
+        "i.e.__uncertainty"^^xsd:string,
+        "low__priority"^^xsd:string,
+        "organizational_process_assets"^^xsd:string,
+        "potential_project_objectives"^^xsd:string,
+        "potentially_risk_analysis_project"^^xsd:string,
+        "priority_ranking"^^xsd:string,
+        "proactively_contingency_reserve"^^xsd:string,
+        "project"^^xsd:string,
+        "quantitative_risk_analysis"^^xsd:string,
+        "response"^^xsd:string,
+        "risk_management_activities"^^xsd:string,
+        "risk_responses"^^xsd:string,
+        "risks"^^xsd:string,
+        "use"^^xsd:string ;
+    ns1:property "accepted"^^xsd:string,
+        "are"^^xsd:string,
+        "assigned"^^xsd:string,
+        "avoided_by"^^xsd:string,
+        "become_apparent"^^xsd:string,
+        "considered"^^xsd:string,
+        "contains"^^xsd:string,
+        "defined"^^xsd:string,
+        "depict"^^xsd:string,
+        "include"^^xsd:string,
+        "includes"^^xsd:string,
+        "is"^^xsd:string,
+        "perform_quantitative"^^xsd:string,
+        "provides"^^xsd:string,
+        "pursued_in"^^xsd:string,
+        "require"^^xsd:string,
+        "specifies"^^xsd:string,
+        "updates"^^xsd:string,
+        "uses"^^xsd:string,
+        "vary"^^xsd:string,
+        "written_to"^^xsd:string ;
+    ns1:subject "that"^^xsd:string .
+
+<http://example.org/people/the__it> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object ""^^xsd:string ;
+    ns1:property "becomes"^^xsd:string ;
+    ns1:subject "the__it"^^xsd:string .
+
+<http://example.org/people/then__definitions> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "then__risk"^^xsd:string ;
+    ns1:property "identified"^^xsd:string ;
+    ns1:subject "then__definitions"^^xsd:string .
+
+<http://example.org/people/then__that> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "organizational__weaknesses"^^xsd:string ;
+    ns1:property "identifies"^^xsd:string ;
+    ns1:subject "then__that"^^xsd:string .
+
+<http://example.org/people/these> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "also_fishbone_risks"^^xsd:string,
+        "other_time_figure"^^xsd:string,
+        "various_system_causation"^^xsd:string ;
+    ns1:property "are_graphical"^^xsd:string,
+        "known_as"^^xsd:string,
+        "show"^^xsd:string ;
+    ns1:subject "these"^^xsd:string .
+
+<http://example.org/people/they> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "contingency_plans"^^xsd:string,
+        "ideally__risk"^^xsd:string,
+        "individual_risk_thresholds"^^xsd:string,
+        "other_risk_projects"^^xsd:string,
+        "project"^^xsd:string,
+        "qualitative_risk_analysis_process"^^xsd:string,
+        "risk_register"^^xsd:string,
+        "specific_risk_management_process"^^xsd:string ;
+    ns1:property "are_useful"^^xsd:string,
+        "developed_during"^^xsd:string,
+        "include"^^xsd:string,
+        "included_in"^^xsd:string,
+        "is"^^xsd:string,
+        "recorded"^^xsd:string,
+        "revised_in"^^xsd:string,
+        "tailored_in"^^xsd:string ;
+    ns1:subject "they"^^xsd:string .
+
+<http://example.org/people/third__who> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "project"^^xsd:string ;
+    ns1:property "involves"^^xsd:string ;
+    ns1:subject "third__who"^^xsd:string .
+
+<http://example.org/people/this> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "scope_baseline"^^xsd:string,
+        "well_requirements_documentation"^^xsd:string,
+        "well_resource_loading"^^xsd:string,
+        "well_schedule_strategy"^^xsd:string ;
+    ns1:property "evaluated_by"^^xsd:string,
+        "include"^^xsd:string ;
+    ns1:subject "this"^^xsd:string .
+
+<http://example.org/people/threats> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "proactive_contingency_reserve"^^xsd:string ;
+    ns1:property "found_in"^^xsd:string ;
+    ns1:subject "threats"^^xsd:string .
+
+<http://example.org/people/time_criticality> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "riskrelated__risk"^^xsd:string ;
+    ns1:property "magnify"^^xsd:string ;
+    ns1:subject "time_criticality"^^xsd:string .
+
+<http://example.org/people/time_schedule_which> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "risks"^^xsd:string ;
+    ns1:property "provides"^^xsd:string ;
+    ns1:subject "time_schedule_which"^^xsd:string .
+
+<http://example.org/people/times_input_values> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "e.g._probability_variables"^^xsd:string ;
+    ns1:property "computed_many"^^xsd:string ;
+    ns1:subject "times_input_values"^^xsd:string .
+
+<http://example.org/people/tornado_diagram> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "relative_sensitivity_variables"^^xsd:string ;
+    ns1:property "is"^^xsd:string ;
+    ns1:subject "tornado_diagram"^^xsd:string .
+
+<http://example.org/people/transference_tools> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "quite__insurance"^^xsd:string ;
+    ns1:property "be"^^xsd:string ;
+    ns1:subject "transference_tools"^^xsd:string .
+
+<http://example.org/people/transferring> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "financial_risk_exposure"^^xsd:string,
+        "later__knowledge"^^xsd:string ;
+    ns1:property "is"^^xsd:string,
+        "mean"^^xsd:string ;
+    ns1:subject "transferring"^^xsd:string .
+
+<http://example.org/people/trends> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "appropriate_risk_management_activities"^^xsd:string ;
+    ns1:property "indicate"^^xsd:string ;
+    ns1:subject "trends"^^xsd:string .
+
+<http://example.org/people/triggering_fallback_that> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "effect"^^xsd:string ;
+    ns1:property "called"^^xsd:string ;
+    ns1:subject "triggering_fallback_that"^^xsd:string .
+
+<http://example.org/people/two__examples> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "continuous__figure"^^xsd:string ;
+    ns1:property "shown_in"^^xsd:string ;
+    ns1:subject "two__examples"^^xsd:string .
+
+<http://example.org/people/typical__approach> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "lookup_table"^^xsd:string ;
+    ns1:property "is"^^xsd:string ;
+    ns1:subject "typical__approach"^^xsd:string .
+
+<http://example.org/people/uncertain__it> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "such_project_scope"^^xsd:string ;
+    ns1:property "is"^^xsd:string ;
+    ns1:subject "uncertain__it"^^xsd:string .
+
+<http://example.org/people/uncertain_project_elements> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "baseline__values"^^xsd:string ;
+    ns1:property "examines"^^xsd:string ;
+    ns1:subject "uncertain_project_elements"^^xsd:string .
+
+<http://example.org/people/uncertainty> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "decreasing_base_values"^^xsd:string,
+        "potential_project_risk"^^xsd:string ;
+    ns1:property "contains"^^xsd:string,
+        "evaluated_as_potential"^^xsd:string ;
+    ns1:subject "uncertainty"^^xsd:string .
+
+<http://example.org/people/underlying__that> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "preventive__action"^^xsd:string ;
+    ns1:property "discover"^^xsd:string ;
+    ns1:subject "underlying__that"^^xsd:string .
+
+<http://example.org/people/unknown__risks> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "therefore_management_reserve"^^xsd:string ;
+    ns1:property "managed"^^xsd:string ;
+    ns1:subject "unknown__risks"^^xsd:string .
+
+<http://example.org/people/updates> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "further_probability_analysis"^^xsd:string ;
+    ns1:property "include"^^xsd:string ;
+    ns1:subject "updates"^^xsd:string .
+
+<http://example.org/people/upgraded__plant> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "overall__decision"^^xsd:string ;
+    ns1:property "has"^^xsd:string ;
+    ns1:subject "upgraded__plant"^^xsd:string .
+
+<http://example.org/people/urgency_assessment_risks> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "nearterm_responses"^^xsd:string ;
+    ns1:property "considered"^^xsd:string ;
+    ns1:subject "urgency_assessment_risks"^^xsd:string .
+
+<http://example.org/people/use> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "little_risk_project"^^xsd:string ;
+    ns1:property "lead_to"^^xsd:string ;
+    ns1:subject "use"^^xsd:string .
+
+<http://example.org/people/used__distributions> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "uniform"^^xsd:string ;
+    ns1:property "include"^^xsd:string ;
+    ns1:subject "used__distributions"^^xsd:string .
+
+<http://example.org/people/value_analysis> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "overall_project_performance"^^xsd:string ;
+    ns1:property "used_for"^^xsd:string ;
+    ns1:subject "value_analysis"^^xsd:string .
+
+<http://example.org/people/values> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "figure"^^xsd:string ;
+    ns1:property "are_representative"^^xsd:string ;
+    ns1:subject "values"^^xsd:string .
+
+<http://example.org/people/very_degradation_quality_applications> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "different_project_objectives"^^xsd:string ;
+    ns1:property "decrease_minor"^^xsd:string ;
+    ns1:subject "very_degradation_quality_applications"^^xsd:string .
+
+<http://example.org/people/watch_list> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "lowpriority_risks"^^xsd:string ;
+    ns1:property "is_within"^^xsd:string ;
+    ns1:subject "watch_list"^^xsd:string .
+
+<http://example.org/people/way__they> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "risk"^^xsd:string ;
+    ns1:property "adopt"^^xsd:string ;
+    ns1:subject "way__they"^^xsd:string .
+
+<http://example.org/people/wbs_plan_scope> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "baseline"^^xsd:string ;
+    ns1:property "create"^^xsd:string ;
+    ns1:subject "wbs_plan_scope"^^xsd:string .
+
+<http://example.org/people/well__that> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "weaknesses"^^xsd:string ;
+    ns1:property "examines"^^xsd:string ;
+    ns1:subject "well__that"^^xsd:string .
+
+<http://example.org/people/when__project> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "early_project_planning"^^xsd:string ;
+    ns1:property "begin"^^xsd:string ;
+    ns1:subject "when__project"^^xsd:string .
+
+<http://example.org/people/when_decision_environment> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "uncertain_chance_nodes"^^xsd:string ;
+    ns1:property "shows"^^xsd:string ;
+    ns1:subject "when_decision_environment"^^xsd:string .
+
+<http://example.org/people/where__it> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "other__way"^^xsd:string ;
+    ns1:property "adopted"^^xsd:string ;
+    ns1:subject "where__it"^^xsd:string .
+
+<http://example.org/people/whereby_project_team> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "impact"^^xsd:string,
+        "risk"^^xsd:string,
+        "together__response"^^xsd:string ;
+    ns1:property "is"^^xsd:string ;
+    ns1:subject "whereby_project_team"^^xsd:string .
+
+<http://example.org/people/which> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "risk_monitoring"^^xsd:string,
+        "roles"^^xsd:string,
+        "such_project_components"^^xsd:string,
+        "therefore_chance_node"^^xsd:string ;
+    ns1:property "provides"^^xsd:string,
+        "represent"^^xsd:string,
+        "represents"^^xsd:string ;
+    ns1:subject "which"^^xsd:string .
+
+<http://example.org/people/work_cost_baseline> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "changes"^^xsd:string ;
+    ns1:property "updated"^^xsd:string ;
+    ns1:subject "work_cost_baseline"^^xsd:string .
+
+<http://example.org/people/work_performance> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object ""^^xsd:string ;
+    ns1:property "reports"^^xsd:string ;
+    ns1:subject "work_performance"^^xsd:string .
+
+<http://example.org/people/work_performance_data> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "deliverable_performance_status"^^xsd:string ;
+    ns1:property "includes"^^xsd:string ;
+    ns1:subject "work_performance_data"^^xsd:string .
+
+<http://example.org/people/work_performance_information> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "control_risks_mechanism"^^xsd:string ;
+    ns1:property "provides"^^xsd:string ;
+    ns1:subject "work_performance_information"^^xsd:string .
+
+<http://example.org/people/work_performance_reports> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "value_data"^^xsd:string ;
+    ns1:property "take"^^xsd:string ;
+    ns1:subject "work_performance_reports"^^xsd:string .
+
+<http://example.org/people/work_schedule_baseline> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "changes"^^xsd:string ;
+    ns1:property "updated"^^xsd:string ;
+    ns1:subject "work_schedule_baseline"^^xsd:string .
+
+<http://example.org/people/y__axes> a <http://xmlns.com/foaf/0.1/Document> ;
+    ns1:object "relative__likelihood"^^xsd:string ;
+    ns1:property "represent_possible"^^xsd:string ;
+    ns1:subject "y__axes"^^xsd:string .
+
+<http://mylocations.org/addresses/> ns1:subject "."^^xsd:string,
+        "accept"^^xsd:string,
+        "analysis"^^xsd:string,
+        "are"^^xsd:string,
+        "assessment"^^xsd:string,
+        "assets"^^xsd:string,
+        "assigned"^^xsd:string,
+        "baseline"^^xsd:string,
+        "be"^^xsd:string,
+        "becomes"^^xsd:string,
+        "budgeting"^^xsd:string,
+        "categories"^^xsd:string,
+        "categorization"^^xsd:string,
+        "charter"^^xsd:string,
+        "considered"^^xsd:string,
+        "cost"^^xsd:string,
+        "costs"^^xsd:string,
+        "data"^^xsd:string,
+        "diagram"^^xsd:string,
+        "diagrams"^^xsd:string,
+        "distribution"^^xsd:string,
+        "documents"^^xsd:string,
+        "durations"^^xsd:string,
+        "enhance"^^xsd:string,
+        "environmental"^^xsd:string,
+        "established"^^xsd:string,
+        "estimates"^^xsd:string,
+        "exploit"^^xsd:string,
+        "factors"^^xsd:string,
+        "figure"^^xsd:string,
+        "gathering"^^xsd:string,
+        "high"^^xsd:string,
+        "human"^^xsd:string,
+        "information"^^xsd:string,
+        "inputs"^^xsd:string,
+        "integrated"^^xsd:string,
+        "interviewing"^^xsd:string,
+        "judgment"^^xsd:string,
+        "low"^^xsd:string,
+        "management"^^xsd:string,
+        "measurement"^^xsd:string,
+        "meetings"^^xsd:string,
+        "mitigate"^^xsd:string,
+        "modeling"^^xsd:string,
+        "moderate"^^xsd:string,
+        "monitor"^^xsd:string,
+        "opportunities"^^xsd:string,
+        "outputs"^^xsd:string,
+        "overview"^^xsd:string,
+        "perform"^^xsd:string,
+        "perform_quantitative"^^xsd:string,
+        "performance"^^xsd:string,
+        "plan"^^xsd:string,
+        "probability"^^xsd:string,
+        "quality"^^xsd:string,
+        "reassessment"^^xsd:string,
+        "register"^^xsd:string,
+        "reports"^^xsd:string,
+        "requests"^^xsd:string,
+        "resource"^^xsd:string,
+        "responses"^^xsd:string,
+        "reviewed"^^xsd:string,
+        "reviews"^^xsd:string,
+        "risk"^^xsd:string,
+        "risks"^^xsd:string,
+        "roles"^^xsd:string,
+        "schedule"^^xsd:string,
+        "scheduled"^^xsd:string,
+        "share"^^xsd:string,
+        "strategies"^^xsd:string,
+        "strategies_for_positive"^^xsd:string,
+        "table"^^xsd:string,
+        "technique"^^xsd:string,
+        "techniques"^^xsd:string,
+        "threats"^^xsd:string,
+        "timing"^^xsd:string,
+        "tolerances"^^xsd:string,
+        "tools"^^xsd:string,
+        "tracking"^^xsd:string,
+        "transfer"^^xsd:string,
+        "updates"^^xsd:string,
+        "variance"^^xsd:string .
+
+<http://mylocations.org/addresses/%24__build> ns1:subject "m"^^xsd:string .
+
+<http://mylocations.org/addresses/%24__m> ns1:subject "."^^xsd:string,
+        "demand"^^xsd:string,
+        "represents"^^xsd:string .
+
+<http://mylocations.org/addresses/acceptable_project_organization> ns1:subject "needed"^^xsd:string .
+
+<http://mylocations.org/addresses/acceptable_threshold_limits> ns1:subject "implies"^^xsd:string .
+
+<http://mylocations.org/addresses/action> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/actions> ns1:subject "include"^^xsd:string .
+
+<http://mylocations.org/addresses/actively__it> ns1:subject "being_willing"^^xsd:string .
+
+<http://mylocations.org/addresses/activity_figure> ns1:subject "estimates"^^xsd:string .
+
+<http://mylocations.org/addresses/actual__targets> ns1:subject "requires"^^xsd:string .
+
+<http://mylocations.org/addresses/actual_project_data> ns1:subject "include"^^xsd:string .
+
+<http://mylocations.org/addresses/actual_risk_responses> ns1:subject "outcomes_of"^^xsd:string .
+
+<http://mylocations.org/addresses/actual_variance_results> ns1:subject "analysis_many"^^xsd:string .
+
+<http://mylocations.org/addresses/aggregate__project> ns1:subject "used"^^xsd:string .
+
+<http://mylocations.org/addresses/also__data> ns1:subject "comes_into"^^xsd:string .
+
+<http://mylocations.org/addresses/also_fishbone_risks> ns1:subject "known_as"^^xsd:string .
+
+<http://mylocations.org/addresses/also_project_management_plan> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/also_project_project> ns1:subject "helps"^^xsd:string .
+
+<http://mylocations.org/addresses/also_risk_checklist> ns1:subject "used_as"^^xsd:string .
+
+<http://mylocations.org/addresses/always_risk_risk> ns1:subject "involves"^^xsd:string .
+
+<http://mylocations.org/addresses/analysis> ns1:subject "are_important"^^xsd:string,
+        "is"^^xsd:string .
+
+<http://mylocations.org/addresses/analysis_human_resource_management_plan> ns1:subject "perform"^^xsd:string .
+
+<http://mylocations.org/addresses/appropriate__project> ns1:subject "is_responsible"^^xsd:string .
+
+<http://mylocations.org/addresses/appropriate_decision_tree_responses> ns1:subject "used"^^xsd:string .
+
+<http://mylocations.org/addresses/appropriate_risk_analysis_models> ns1:subject "be_possible"^^xsd:string .
+
+<http://mylocations.org/addresses/appropriate_risk_management_activities> ns1:subject "allocate_appropriate"^^xsd:string,
+        "indicate"^^xsd:string .
+
+<http://mylocations.org/addresses/approved_project_management_changes> ns1:subject "revised"^^xsd:string .
+
+<http://mylocations.org/addresses/assessed__probability> ns1:subject "assigned_to"^^xsd:string .
+
+<http://mylocations.org/addresses/associated__reserves> ns1:subject "include"^^xsd:string .
+
+<http://mylocations.org/addresses/associated_confidence_levels> ns1:subject "made_of_potential"^^xsd:string .
+
+<http://mylocations.org/addresses/assumptions> ns1:subject "identifies"^^xsd:string .
+
+<http://mylocations.org/addresses/assumptions_log_updates> ns1:subject "include"^^xsd:string .
+
+<http://mylocations.org/addresses/audit> ns1:subject "defined"^^xsd:string .
+
+<http://mylocations.org/addresses/authorized_project_team_members> ns1:subject "includes"^^xsd:string .
+
+<http://mylocations.org/addresses/back__buyer> ns1:subject "be_prudent"^^xsd:string .
+
+<http://mylocations.org/addresses/baseline> ns1:subject "create"^^xsd:string .
+
+<http://mylocations.org/addresses/baseline__values> ns1:subject "examines"^^xsd:string .
+
+<http://mylocations.org/addresses/benchscale_process> ns1:subject "require"^^xsd:string .
+
+<http://mylocations.org/addresses/better__data> ns1:subject "be_necessary"^^xsd:string .
+
+<http://mylocations.org/addresses/better_project_risks> ns1:subject "provide"^^xsd:string .
+
+<http://mylocations.org/addresses/bias> ns1:subject "reduce"^^xsd:string .
+
+<http://mylocations.org/addresses/budget> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/budget_contingency_reserves> ns1:subject "occur_with_positive"^^xsd:string .
+
+<http://mylocations.org/addresses/business_matter_area> ns1:subject "considered_from"^^xsd:string .
+
+<http://mylocations.org/addresses/changes> ns1:subject "updated"^^xsd:string .
+
+<http://mylocations.org/addresses/characteristics> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/checklist> ns1:subject "explore"^^xsd:string .
+
+<http://mylocations.org/addresses/commercial__databases> ns1:subject "include"^^xsd:string .
+
+<http://mylocations.org/addresses/common_root_causes> ns1:subject "categorized_by_common"^^xsd:string .
+
+<http://mylocations.org/addresses/commonly__opportunities> ns1:subject "referred_to"^^xsd:string .
+
+<http://mylocations.org/addresses/commonly__risks> ns1:subject "used"^^xsd:string .
+
+<http://mylocations.org/addresses/commonly_sensitivity_analysis> ns1:subject "used"^^xsd:string .
+
+<http://mylocations.org/addresses/completed_risk_analysis_projects> ns1:subject "include"^^xsd:string .
+
+<http://mylocations.org/addresses/comprehensive_project_risks> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/contingency_cost_reserves> ns1:subject "needed"^^xsd:string .
+
+<http://mylocations.org/addresses/contingency_order> ns1:subject "compares"^^xsd:string .
+
+<http://mylocations.org/addresses/contingency_plans> ns1:subject "include"^^xsd:string .
+
+<http://mylocations.org/addresses/contingency_risks> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/contingent_response_strategies> ns1:subject "updates"^^xsd:string .
+
+<http://mylocations.org/addresses/continuous__figure> ns1:subject "shown_in"^^xsd:string .
+
+<http://mylocations.org/addresses/continuously_risk_responses> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/contract_changes> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/contractual_project_contract> ns1:subject "includes"^^xsd:string .
+
+<http://mylocations.org/addresses/control_risks_mechanism> ns1:subject "provides"^^xsd:string .
+
+<http://mylocations.org/addresses/corrective__actions> ns1:subject "include"^^xsd:string,
+        "recommended_corrective"^^xsd:string .
+
+<http://mylocations.org/addresses/corrective_project_management_plan> ns1:subject "involve"^^xsd:string .
+
+<http://mylocations.org/addresses/cost__objectives> ns1:subject "probability_of"^^xsd:string .
+
+<http://mylocations.org/addresses/cost__targets> ns1:subject "forecast_potential"^^xsd:string .
+
+<http://mylocations.org/addresses/cost_contingency_reserves> ns1:subject "used_with"^^xsd:string .
+
+<http://mylocations.org/addresses/cost_estimates> ns1:subject "uses"^^xsd:string .
+
+<http://mylocations.org/addresses/cost_management_plan> ns1:subject "costs"^^xsd:string .
+
+<http://mylocations.org/addresses/costs> ns1:subject "shows"^^xsd:string .
+
+<http://mylocations.org/addresses/critical__path> ns1:subject "include"^^xsd:string .
+
+<http://mylocations.org/addresses/current__project> ns1:subject "tracking"^^xsd:string .
+
+<http://mylocations.org/addresses/current__risks> ns1:subject "results_in"^^xsd:string .
+
+<http://mylocations.org/addresses/current_risk_assessment> ns1:subject "shows"^^xsd:string .
+
+<http://mylocations.org/addresses/data_flow_process> ns1:subject "depicts"^^xsd:string .
+
+<http://mylocations.org/addresses/decreasing_base_values> ns1:subject "contains"^^xsd:string .
+
+<http://mylocations.org/addresses/deliverable_performance_status> ns1:subject "includes"^^xsd:string .
+
+<http://mylocations.org/addresses/delivered_transaction_defects> ns1:subject "include"^^xsd:string .
+
+<http://mylocations.org/addresses/desired__effect> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/detail> ns1:subject "addressed_in"^^xsd:string .
+
+<http://mylocations.org/addresses/different__gray> ns1:subject "denoted"^^xsd:string .
+
+<http://mylocations.org/addresses/different__projects> ns1:subject "be_appropriate"^^xsd:string .
+
+<http://mylocations.org/addresses/different__uncertainties> ns1:subject "helps"^^xsd:string .
+
+<http://mylocations.org/addresses/different_project_objectives> ns1:subject "decrease_minor"^^xsd:string .
+
+<http://mylocations.org/addresses/different_risk_response> ns1:subject "include"^^xsd:string .
+
+<http://mylocations.org/addresses/direct_risk_response> ns1:subject "are"^^xsd:string .
+
+<http://mylocations.org/addresses/directly_plan_risk_responses> ns1:subject "into"^^xsd:string .
+
+<http://mylocations.org/addresses/documents_risks_updates> ns1:subject "identify"^^xsd:string .
+
+<http://mylocations.org/addresses/e.g._probability_variables> ns1:subject "computed_many"^^xsd:string .
+
+<http://mylocations.org/addresses/each> ns1:subject "handled_in"^^xsd:string,
+        "include"^^xsd:string .
+
+<http://mylocations.org/addresses/early__expertise> ns1:subject "avoided_by"^^xsd:string .
+
+<http://mylocations.org/addresses/early_concept_design> ns1:subject "used"^^xsd:string .
+
+<http://mylocations.org/addresses/early_project_planning> ns1:subject "begin"^^xsd:string .
+
+<http://mylocations.org/addresses/effect> ns1:subject "called"^^xsd:string .
+
+<http://mylocations.org/addresses/effective__analysis> ns1:subject "be_consistent"^^xsd:string .
+
+<http://mylocations.org/addresses/effective_risk_project> ns1:subject "made_at"^^xsd:string .
+
+<http://mylocations.org/addresses/effective_risk_responses> ns1:subject "helps"^^xsd:string .
+
+<http://mylocations.org/addresses/effectively_project_life_cycle> ns1:subject "is_vital"^^xsd:string .
+
+<http://mylocations.org/addresses/emerging__risks> ns1:subject "are"^^xsd:string .
+
+<http://mylocations.org/addresses/enhanced_risk_value> ns1:subject "pursued_in"^^xsd:string .
+
+<http://mylocations.org/addresses/environmental_organization_factors_figure> ns1:subject "perform"^^xsd:string .
+
+<http://mylocations.org/addresses/estimate_activity_durations> ns1:subject "appears_in"^^xsd:string .
+
+<http://mylocations.org/addresses/estimates_risk_register> ns1:subject "identify"^^xsd:string .
+
+<http://mylocations.org/addresses/existing_m_plant> ns1:subject "note"^^xsd:string .
+
+<http://mylocations.org/addresses/experienced_subject_matter_risks> ns1:subject "helps"^^xsd:string .
+
+<http://mylocations.org/addresses/experts> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/external__project> ns1:subject "included"^^xsd:string .
+
+<http://mylocations.org/addresses/few__process> ns1:subject "reached_in"^^xsd:string .
+
+<http://mylocations.org/addresses/fewer_resource_optimization_resources> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/figure> ns1:subject "are_representative"^^xsd:string,
+        "depicted_in"^^xsd:string,
+        "required"^^xsd:string,
+        "shown_in"^^xsd:string,
+        "updates"^^xsd:string .
+
+<http://mylocations.org/addresses/final_risk_severity_rating> ns1:subject "combined_with"^^xsd:string .
+
+<http://mylocations.org/addresses/financial_risk_exposure> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/flow_charts> ns1:subject "system"^^xsd:string .
+
+<http://mylocations.org/addresses/following> ns1:subject "includes"^^xsd:string,
+        "provides"^^xsd:string .
+
+<http://mylocations.org/addresses/formats> ns1:subject "reporting"^^xsd:string .
+
+<http://mylocations.org/addresses/four_project_objectives> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/further__comment> ns1:subject "summarized"^^xsd:string .
+
+<http://mylocations.org/addresses/further__occurrence> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/further_probability_analysis> ns1:subject "include"^^xsd:string .
+
+<http://mylocations.org/addresses/further_risk_occurrence> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/future_project_projects> ns1:subject "help"^^xsd:string,
+        "reviewed_during"^^xsd:string .
+
+<http://mylocations.org/addresses/future_risk_management_projects> ns1:subject "includes"^^xsd:string .
+
+<http://mylocations.org/addresses/future_watch_monitoring> ns1:subject "included_within"^^xsd:string .
+
+<http://mylocations.org/addresses/generated__risks> ns1:subject "perspectives"^^xsd:string .
+
+<http://mylocations.org/addresses/gray__zone> ns1:subject "monitored"^^xsd:string .
+
+<http://mylocations.org/addresses/gray_priority_action> ns1:subject "require"^^xsd:string .
+
+<http://mylocations.org/addresses/greatest__benefit> ns1:subject "targeted"^^xsd:string .
+
+<http://mylocations.org/addresses/greatest__project> ns1:subject "includes"^^xsd:string .
+
+<http://mylocations.org/addresses/guidance> ns1:subject "provides"^^xsd:string .
+
+<http://mylocations.org/addresses/hierarchical_risk_categories> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/high__objective> ns1:subject "shown_in"^^xsd:string .
+
+<http://mylocations.org/addresses/high__those> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/high_impact_risk> ns1:subject "determine"^^xsd:string .
+
+<http://mylocations.org/addresses/higher_contingency_supplier> ns1:subject "defined"^^xsd:string .
+
+<http://mylocations.org/addresses/highpriority_risks> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/historical_project_objectives> ns1:subject "draw_on"^^xsd:string .
+
+<http://mylocations.org/addresses/how_risk_management_project> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/hypotheses> ns1:subject "conceived"^^xsd:string .
+
+<http://mylocations.org/addresses/i.e.__project> ns1:subject "pose"^^xsd:string .
+
+<http://mylocations.org/addresses/i.e.__uncertainty> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/ideally__risk> ns1:subject "are_useful"^^xsd:string .
+
+<http://mylocations.org/addresses/identified__risk> ns1:subject "assessed_for"^^xsd:string .
+
+<http://mylocations.org/addresses/identified__risks> ns1:subject "are"^^xsd:string .
+
+<http://mylocations.org/addresses/identified_risk_risks> ns1:subject "begins_in"^^xsd:string .
+
+<http://mylocations.org/addresses/identify_risks_process> ns1:subject "become"^^xsd:string,
+        "identified_during"^^xsd:string,
+        "is_useful"^^xsd:string .
+
+<http://mylocations.org/addresses/impact> ns1:subject "is"^^xsd:string,
+        "occur"^^xsd:string .
+
+<http://mylocations.org/addresses/implementation> ns1:subject "developed_for"^^xsd:string .
+
+<http://mylocations.org/addresses/important_project_risks> ns1:subject "uses"^^xsd:string .
+
+<http://mylocations.org/addresses/individual_risk_thresholds> ns1:subject "tailored_in"^^xsd:string .
+
+<http://mylocations.org/addresses/industry> ns1:subject "provide"^^xsd:string .
+
+<http://mylocations.org/addresses/information_gathering_brainstorming> ns1:subject "include"^^xsd:string .
+
+<http://mylocations.org/addresses/initial_risk_register> ns1:subject "register"^^xsd:string .
+
+<http://mylocations.org/addresses/integrated_change_control_process> ns1:subject "are"^^xsd:string,
+        "generated"^^xsd:string .
+
+<http://mylocations.org/addresses/interview> ns1:subject "evaluated_during"^^xsd:string .
+
+<http://mylocations.org/addresses/investment_costs> ns1:subject "remember"^^xsd:string .
+
+<http://mylocations.org/addresses/it> ns1:subject "eliminate"^^xsd:string,
+        "paid_to"^^xsd:string .
+
+<http://mylocations.org/addresses/jeopardy> ns1:subject "isolate"^^xsd:string .
+
+<http://mylocations.org/addresses/key_positiveimpact_occurrence> ns1:subject "increase"^^xsd:string .
+
+<http://mylocations.org/addresses/key_risk_process> ns1:subject "contain"^^xsd:string .
+
+<http://mylocations.org/addresses/later__knowledge> ns1:subject "mean"^^xsd:string .
+
+<http://mylocations.org/addresses/levels> ns1:subject "recorded"^^xsd:string .
+
+<http://mylocations.org/addresses/life_cycle> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/likely__risk> ns1:subject "selected_for"^^xsd:string .
+
+<http://mylocations.org/addresses/likely_cost_estimate> ns1:subject "cost"^^xsd:string .
+
+<http://mylocations.org/addresses/limited__project> ns1:subject "include"^^xsd:string .
+
+<http://mylocations.org/addresses/little_risk_project> ns1:subject "lead_to"^^xsd:string .
+
+<http://mylocations.org/addresses/lookup_table> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/low__priority> ns1:subject "specifies"^^xsd:string .
+
+<http://mylocations.org/addresses/low_risk_register> ns1:subject "register"^^xsd:string .
+
+<http://mylocations.org/addresses/low_risk_risks> ns1:subject "plan_important"^^xsd:string .
+
+<http://mylocations.org/addresses/lowpriority_risks> ns1:subject "is_within"^^xsd:string .
+
+<http://mylocations.org/addresses/management_probability_distributions> ns1:subject "range_of"^^xsd:string .
+
+<http://mylocations.org/addresses/management_procurement_documents> ns1:subject "plan"^^xsd:string .
+
+<http://mylocations.org/addresses/management_risk_analysis> ns1:subject "identify"^^xsd:string .
+
+<http://mylocations.org/addresses/management_risks> ns1:subject "identify"^^xsd:string .
+
+<http://mylocations.org/addresses/measurement> ns1:subject "updates"^^xsd:string .
+
+<http://mylocations.org/addresses/meetings> ns1:subject "generated_in"^^xsd:string .
+
+<http://mylocations.org/addresses/micro__levels> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/moderate__risk> ns1:subject "represents_high"^^xsd:string .
+
+<http://mylocations.org/addresses/moment> ns1:subject "exist_at"^^xsd:string .
+
+<http://mylocations.org/addresses/monetary__decision> ns1:subject "added"^^xsd:string .
+
+<http://mylocations.org/addresses/monetary_value_analysis> ns1:subject "expected_monetary"^^xsd:string .
+
+<http://mylocations.org/addresses/monte_carlo_technique> ns1:subject "performed"^^xsd:string .
+
+<http://mylocations.org/addresses/more__activity> ns1:subject "include"^^xsd:string .
+
+<http://mylocations.org/addresses/more__damage> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/more__organization> ns1:subject "determine"^^xsd:string .
+
+<http://mylocations.org/addresses/more__scope> ns1:subject "help"^^xsd:string .
+
+<http://mylocations.org/addresses/more__time> ns1:subject "is_difficult"^^xsd:string .
+
+<http://mylocations.org/addresses/more__uncertainty> ns1:subject "tend"^^xsd:string .
+
+<http://mylocations.org/addresses/more_wellunderstood_risks> ns1:subject "tend"^^xsd:string .
+
+<http://mylocations.org/addresses/most_project_uncertainty> ns1:subject "risk"^^xsd:string .
+
+<http://mylocations.org/addresses/much__detail> ns1:subject "described_in"^^xsd:string .
+
+<http://mylocations.org/addresses/nearly__%25> ns1:subject "required"^^xsd:string .
+
+<http://mylocations.org/addresses/nearterm_responses> ns1:subject "considered"^^xsd:string .
+
+<http://mylocations.org/addresses/necessary_project_team> ns1:subject "includes"^^xsd:string .
+
+<http://mylocations.org/addresses/negative> ns1:subject "strategies_for_negative"^^xsd:string .
+
+<http://mylocations.org/addresses/negative__impacts> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/negative__outcomes> ns1:subject "be"^^xsd:string .
+
+<http://mylocations.org/addresses/negative__risks> ns1:subject "avoid"^^xsd:string,
+        "strategies_for_negative"^^xsd:string,
+        "used_for_negative"^^xsd:string .
+
+<http://mylocations.org/addresses/negative__values> ns1:subject "expressed_as_positive"^^xsd:string .
+
+<http://mylocations.org/addresses/negative_project_objectives> ns1:subject "are"^^xsd:string .
+
+<http://mylocations.org/addresses/negative_project_risk_project> ns1:subject "are"^^xsd:string .
+
+<http://mylocations.org/addresses/new__information> ns1:subject "needs"^^xsd:string .
+
+<http://mylocations.org/addresses/new__risks> ns1:subject "risks"^^xsd:string .
+
+<http://mylocations.org/addresses/new_project_objectives> ns1:subject "include"^^xsd:string .
+
+<http://mylocations.org/addresses/new_risk_process_project> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/numerical_priority_risks> ns1:subject "used"^^xsd:string .
+
+<http://mylocations.org/addresses/objective> ns1:subject "rated_on"^^xsd:string .
+
+<http://mylocations.org/addresses/objective_project_information> ns1:subject "provide_additional"^^xsd:string .
+
+<http://mylocations.org/addresses/objectives> ns1:subject "depends_on"^^xsd:string,
+        "is"^^xsd:string,
+        "plan"^^xsd:string .
+
+<http://mylocations.org/addresses/often__time> ns1:subject "allocated_for"^^xsd:string .
+
+<http://mylocations.org/addresses/often_risk_facilitation_workshops> ns1:subject "accomplished_with"^^xsd:string .
+
+<http://mylocations.org/addresses/one__impacts> ns1:subject "have"^^xsd:string .
+
+<http://mylocations.org/addresses/one__project> ns1:subject "support"^^xsd:string .
+
+<http://mylocations.org/addresses/one_risk_agreedto> ns1:subject "includes"^^xsd:string .
+
+<http://mylocations.org/addresses/organizational__preference> ns1:subject "used"^^xsd:string .
+
+<http://mylocations.org/addresses/organizational__weaknesses> ns1:subject "identifies"^^xsd:string .
+
+<http://mylocations.org/addresses/organizational_assets_organization_figure> ns1:subject "perform"^^xsd:string .
+
+<http://mylocations.org/addresses/organizational_process_assets> ns1:subject "specified_by"^^xsd:string,
+        "updates"^^xsd:string .
+
+<http://mylocations.org/addresses/organizational_risk_responses> ns1:subject "updated"^^xsd:string .
+
+<http://mylocations.org/addresses/original__component> ns1:subject "reduce"^^xsd:string .
+
+<http://mylocations.org/addresses/other__information> ns1:subject "developed_based"^^xsd:string .
+
+<http://mylocations.org/addresses/other__way> ns1:subject "adopted"^^xsd:string .
+
+<http://mylocations.org/addresses/other_knowledge_section> ns1:subject "interact_with"^^xsd:string .
+
+<http://mylocations.org/addresses/other_planning_processes> ns1:subject "result_in"^^xsd:string .
+
+<http://mylocations.org/addresses/other_project_objectives> ns1:subject "developed_for_other"^^xsd:string .
+
+<http://mylocations.org/addresses/other_quality_risks> ns1:subject "improve"^^xsd:string .
+
+<http://mylocations.org/addresses/other_risk_management_processes> ns1:subject "enhances"^^xsd:string .
+
+<http://mylocations.org/addresses/other_risk_projects> ns1:subject "recorded"^^xsd:string .
+
+<http://mylocations.org/addresses/other_risk_register> ns1:subject "include"^^xsd:string .
+
+<http://mylocations.org/addresses/other_time_figure> ns1:subject "are_graphical"^^xsd:string .
+
+<http://mylocations.org/addresses/overall__decision> ns1:subject "has"^^xsd:string .
+
+<http://mylocations.org/addresses/overall__impact> ns1:subject "are"^^xsd:string .
+
+<http://mylocations.org/addresses/overall__risk> ns1:subject "develop"^^xsd:string .
+
+<http://mylocations.org/addresses/overall_project_context> ns1:subject "is"^^xsd:string,
+        "used"^^xsd:string .
+
+<http://mylocations.org/addresses/overall_project_objectives> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/overall_project_performance> ns1:subject "used_for"^^xsd:string .
+
+<http://mylocations.org/addresses/overall_project_risk> ns1:subject "are_different"^^xsd:string .
+
+<http://mylocations.org/addresses/overall_risk_management_project> ns1:subject "used"^^xsd:string .
+
+<http://mylocations.org/addresses/package_levels> ns1:subject "identified"^^xsd:string .
+
+<http://mylocations.org/addresses/particular__project> ns1:subject "determine"^^xsd:string .
+
+<http://mylocations.org/addresses/perceived_risk_taking> ns1:subject "reflect"^^xsd:string .
+
+<http://mylocations.org/addresses/perception> ns1:subject "driven_by"^^xsd:string .
+
+<http://mylocations.org/addresses/performance_information> ns1:subject "reviewed"^^xsd:string .
+
+<http://mylocations.org/addresses/periodic_status_meetings> ns1:subject "be"^^xsd:string .
+
+<http://mylocations.org/addresses/periodic_watch_monitoring> ns1:subject "judged"^^xsd:string .
+
+<http://mylocations.org/addresses/periodically__threat> ns1:subject "requires"^^xsd:string .
+
+<http://mylocations.org/addresses/plan_figure> ns1:subject "develop"^^xsd:string .
+
+<http://mylocations.org/addresses/plan_work_performance> ns1:subject "develop"^^xsd:string .
+
+<http://mylocations.org/addresses/planned_procurement_procurement> ns1:subject "be_consistent"^^xsd:string .
+
+<http://mylocations.org/addresses/planning__activities> ns1:subject "include"^^xsd:string .
+
+<http://mylocations.org/addresses/positive__impacts> ns1:subject "selected_for"^^xsd:string .
+
+<http://mylocations.org/addresses/positive__opportunity> ns1:subject "used"^^xsd:string .
+
+<http://mylocations.org/addresses/positive__risks> ns1:subject "strategies_for_positive"^^xsd:string .
+
+<http://mylocations.org/addresses/positive_impact_perspective> ns1:subject "established_with"^^xsd:string .
+
+<http://mylocations.org/addresses/positive_project_objectives> ns1:subject "suggested"^^xsd:string .
+
+<http://mylocations.org/addresses/positive_project_opportunities> ns1:subject "investigates"^^xsd:string .
+
+<http://mylocations.org/addresses/possible__products> ns1:subject "calculated_by"^^xsd:string .
+
+<http://mylocations.org/addresses/possible_decision_tree> ns1:subject "used"^^xsd:string .
+
+<http://mylocations.org/addresses/potential__project> ns1:subject "helps"^^xsd:string,
+        "prioritized_according"^^xsd:string .
+
+<http://mylocations.org/addresses/potential__responses> ns1:subject "list_of_potential"^^xsd:string .
+
+<http://mylocations.org/addresses/potential__risk> ns1:subject "provide"^^xsd:string .
+
+<http://mylocations.org/addresses/potential__risks> ns1:subject "encouraged"^^xsd:string .
+
+<http://mylocations.org/addresses/potential_baseline_threats> ns1:subject "indicate"^^xsd:string .
+
+<http://mylocations.org/addresses/potential_project_objectives> ns1:subject "uses"^^xsd:string .
+
+<http://mylocations.org/addresses/potential_project_procurement_sellers> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/potential_project_risk> ns1:subject "evaluated_as_potential"^^xsd:string .
+
+<http://mylocations.org/addresses/potentially_risk_analysis_project> ns1:subject "perform_quantitative"^^xsd:string .
+
+<http://mylocations.org/addresses/present__projects> ns1:subject "has"^^xsd:string .
+
+<http://mylocations.org/addresses/preventive__action> ns1:subject "discover"^^xsd:string .
+
+<http://mylocations.org/addresses/preventive__actions> ns1:subject "recommended_preventive"^^xsd:string .
+
+<http://mylocations.org/addresses/previous_project_expertise> ns1:subject "identified_by"^^xsd:string .
+
+<http://mylocations.org/addresses/primary__strategies> ns1:subject "developed"^^xsd:string .
+
+<http://mylocations.org/addresses/priority_ranking> ns1:subject "written_to"^^xsd:string .
+
+<http://mylocations.org/addresses/proactive_contingency_reserve> ns1:subject "found_in"^^xsd:string .
+
+<http://mylocations.org/addresses/proactively_contingency_reserve> ns1:subject "assigned"^^xsd:string .
+
+<http://mylocations.org/addresses/proactively_risk_project> ns1:subject "committed"^^xsd:string .
+
+<http://mylocations.org/addresses/probabilistic__project> ns1:subject "include"^^xsd:string .
+
+<http://mylocations.org/addresses/probability_distributions> ns1:subject "depends_upon"^^xsd:string .
+
+<http://mylocations.org/addresses/process> ns1:subject "taken_into"^^xsd:string .
+
+<http://mylocations.org/addresses/procurement> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/project> ns1:subject "be"^^xsd:string,
+        "chosen"^^xsd:string,
+        "explores"^^xsd:string,
+        "include"^^xsd:string,
+        "involves"^^xsd:string,
+        "is"^^xsd:string,
+        "provides"^^xsd:string,
+        "starts_with"^^xsd:string .
+
+<http://mylocations.org/addresses/project_budget> ns1:subject "developed_for"^^xsd:string .
+
+<http://mylocations.org/addresses/project_category> ns1:subject "used"^^xsd:string .
+
+<http://mylocations.org/addresses/project_charter> ns1:subject "develop"^^xsd:string .
+
+<http://mylocations.org/addresses/project_closure> ns1:subject "updated"^^xsd:string .
+
+<http://mylocations.org/addresses/project_context> ns1:subject "requires"^^xsd:string .
+
+<http://mylocations.org/addresses/project_documents_figure> ns1:subject "identify"^^xsd:string .
+
+<http://mylocations.org/addresses/project_documents_management> ns1:subject "develop"^^xsd:string .
+
+<http://mylocations.org/addresses/project_documents_updates> ns1:subject "identify"^^xsd:string .
+
+<http://mylocations.org/addresses/project_events> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/project_execution> ns1:subject "applies"^^xsd:string .
+
+<http://mylocations.org/addresses/project_management_plan> ns1:subject "are"^^xsd:string,
+        "plan"^^xsd:string .
+
+<http://mylocations.org/addresses/project_objectives> ns1:subject "analyzes"^^xsd:string,
+        "is"^^xsd:string .
+
+<http://mylocations.org/addresses/project_organizational_assets_plan_plan> ns1:subject "develop"^^xsd:string .
+
+<http://mylocations.org/addresses/project_outcome> ns1:subject "represents"^^xsd:string .
+
+<http://mylocations.org/addresses/project_plans> ns1:subject "performed"^^xsd:string .
+
+<http://mylocations.org/addresses/project_risk_management> ns1:subject "identify"^^xsd:string,
+        "management"^^xsd:string,
+        "responses"^^xsd:string,
+        "risks"^^xsd:string .
+
+<http://mylocations.org/addresses/project_schedule> ns1:subject "establishes"^^xsd:string .
+
+<http://mylocations.org/addresses/project_scope_statement> ns1:subject "found_in"^^xsd:string .
+
+<http://mylocations.org/addresses/project_team> ns1:subject "reflect"^^xsd:string .
+
+<http://mylocations.org/addresses/project_uncertainty> ns1:subject "is_more"^^xsd:string .
+
+<http://mylocations.org/addresses/projects> ns1:subject "perceive"^^xsd:string .
+
+<http://mylocations.org/addresses/proper_risk_identification> ns1:subject "is_impossible"^^xsd:string .
+
+<http://mylocations.org/addresses/qualitative> ns1:subject "perform_qualitative"^^xsd:string .
+
+<http://mylocations.org/addresses/qualitative_analysis_organization_figure> ns1:subject "perform"^^xsd:string .
+
+<http://mylocations.org/addresses/qualitative_project_risk_management> ns1:subject "perform_qualitative"^^xsd:string .
+
+<http://mylocations.org/addresses/qualitative_responses_risk_analysis> ns1:subject "perform"^^xsd:string .
+
+<http://mylocations.org/addresses/qualitative_risk_analysis_process> ns1:subject "developed_during"^^xsd:string,
+        "follows"^^xsd:string,
+        "requires_explicit"^^xsd:string .
+
+<http://mylocations.org/addresses/qualitative_risk_assessment> ns1:subject "change"^^xsd:string,
+        "updated"^^xsd:string .
+
+<http://mylocations.org/addresses/qualitative_risk_probability> ns1:subject "perform_qualitative"^^xsd:string .
+
+<http://mylocations.org/addresses/quality_procurement_management> ns1:subject "plan"^^xsd:string .
+
+<http://mylocations.org/addresses/quality_risks> ns1:subject "provides"^^xsd:string .
+
+<http://mylocations.org/addresses/quantified__risks> ns1:subject "list_of"^^xsd:string .
+
+<http://mylocations.org/addresses/quantitative_control_risks_process> ns1:subject "repeated"^^xsd:string .
+
+<http://mylocations.org/addresses/quantitative_project_risk_management> ns1:subject "perform_quantitative"^^xsd:string .
+
+<http://mylocations.org/addresses/quantitative_project_uncertainty> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/quantitative_risk_analysis> ns1:subject "depict"^^xsd:string,
+        "exercise_expert"^^xsd:string,
+        "interviewing"^^xsd:string,
+        "is"^^xsd:string,
+        "lead_into_perform"^^xsd:string,
+        "perform_quantitative"^^xsd:string,
+        "updates"^^xsd:string,
+        "used_as"^^xsd:string,
+        "used_in_quantitative"^^xsd:string .
+
+<http://mylocations.org/addresses/quantitative_risk_analysis_process> ns1:subject "follows"^^xsd:string,
+        "reflect_new"^^xsd:string .
+
+<http://mylocations.org/addresses/quantitative_risk_analysis_report> ns1:subject "take"^^xsd:string .
+
+<http://mylocations.org/addresses/quantitative_risk_analysis_results> ns1:subject "estimated"^^xsd:string,
+        "trends_in_quantitative"^^xsd:string .
+
+<http://mylocations.org/addresses/quantitative_risk_project> ns1:subject "include"^^xsd:string .
+
+<http://mylocations.org/addresses/quantitative_risk_rating> ns1:subject "prioritized_for_further"^^xsd:string .
+
+<http://mylocations.org/addresses/quantitative_stakeholders_stakeholder_register> ns1:subject "identify_quantitative"^^xsd:string .
+
+<http://mylocations.org/addresses/quite__insurance> ns1:subject "be"^^xsd:string .
+
+<http://mylocations.org/addresses/rbs_risk_probability> ns1:subject "example_of"^^xsd:string .
+
+<http://mylocations.org/addresses/recent__projects> ns1:subject "are"^^xsd:string .
+
+<http://mylocations.org/addresses/register__time> ns1:subject "contains"^^xsd:string .
+
+<http://mylocations.org/addresses/regularly_risk_management_plan> ns1:subject "performed"^^xsd:string .
+
+<http://mylocations.org/addresses/related__risks> ns1:subject "be_impactful"^^xsd:string .
+
+<http://mylocations.org/addresses/relative__approaches> ns1:subject "illustrates"^^xsd:string .
+
+<http://mylocations.org/addresses/relative__likelihood> ns1:subject "represent_possible"^^xsd:string .
+
+<http://mylocations.org/addresses/relative__project> ns1:subject "shown"^^xsd:string .
+
+<http://mylocations.org/addresses/relative_sensitivity_variables> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/relatively_risk_simulation_results> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/residual_contingency_reserves> ns1:subject "has_key"^^xsd:string .
+
+<http://mylocations.org/addresses/response> ns1:subject "vary"^^xsd:string .
+
+<http://mylocations.org/addresses/response_project> ns1:subject "includes"^^xsd:string .
+
+<http://mylocations.org/addresses/responsible_project_person> ns1:subject "be_appropriate"^^xsd:string .
+
+<http://mylocations.org/addresses/reward> ns1:subject "influenced_by"^^xsd:string .
+
+<http://mylocations.org/addresses/risk> ns1:subject "accept"^^xsd:string,
+        "adopt"^^xsd:string,
+        "describes"^^xsd:string,
+        "developed_for"^^xsd:string,
+        "include"^^xsd:string,
+        "involves"^^xsd:string,
+        "is"^^xsd:string,
+        "requires"^^xsd:string,
+        "tolerate"^^xsd:string .
+
+<http://mylocations.org/addresses/risk_agenda> ns1:subject "assessed_in"^^xsd:string .
+
+<http://mylocations.org/addresses/risk_analysis> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/risk_analysis_techniques> ns1:subject "gathering"^^xsd:string .
+
+<http://mylocations.org/addresses/risk_figure> ns1:subject "shown_in"^^xsd:string .
+
+<http://mylocations.org/addresses/risk_identification_exercise> ns1:subject "helps"^^xsd:string .
+
+<http://mylocations.org/addresses/risk_management> ns1:subject "is"^^xsd:string,
+        "plan"^^xsd:string .
+
+<http://mylocations.org/addresses/risk_management_activities> ns1:subject "include"^^xsd:string .
+
+<http://mylocations.org/addresses/risk_management_meetings> ns1:subject "defined_in"^^xsd:string .
+
+<http://mylocations.org/addresses/risk_management_plan> ns1:subject "hold"^^xsd:string,
+        "rated_according"^^xsd:string,
+        "summarized_in"^^xsd:string .
+
+<http://mylocations.org/addresses/risk_management_process> ns1:subject "define"^^xsd:string .
+
+<http://mylocations.org/addresses/risk_management_processes> ns1:subject "provides"^^xsd:string .
+
+<http://mylocations.org/addresses/risk_management_responsibilities> ns1:subject "defines"^^xsd:string .
+
+<http://mylocations.org/addresses/risk_monitoring> ns1:subject "provides"^^xsd:string .
+
+<http://mylocations.org/addresses/risk_organization> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/risk_probability_likelihood> ns1:subject "investigates"^^xsd:string .
+
+<http://mylocations.org/addresses/risk_project> ns1:subject "defines"^^xsd:string .
+
+<http://mylocations.org/addresses/risk_reassessments> ns1:subject "include"^^xsd:string .
+
+<http://mylocations.org/addresses/risk_register> ns1:subject "include"^^xsd:string,
+        "included"^^xsd:string,
+        "included_in"^^xsd:string .
+
+<http://mylocations.org/addresses/risk_register_updates> ns1:subject "include"^^xsd:string .
+
+<http://mylocations.org/addresses/risk_reserves> ns1:subject "provides"^^xsd:string .
+
+<http://mylocations.org/addresses/risk_responses> ns1:subject "become_apparent"^^xsd:string,
+        "change"^^xsd:string,
+        "helps"^^xsd:string,
+        "updated"^^xsd:string .
+
+<http://mylocations.org/addresses/risk_responses_process> ns1:subject "are"^^xsd:string,
+        "updated"^^xsd:string,
+        "used_as"^^xsd:string .
+
+<http://mylocations.org/addresses/risk_techniques> ns1:subject "audits"^^xsd:string .
+
+<http://mylocations.org/addresses/risk_thresholds_which> ns1:subject "help"^^xsd:string .
+
+<http://mylocations.org/addresses/riskaffected__scope> ns1:subject "provides"^^xsd:string .
+
+<http://mylocations.org/addresses/riskneutral__assumption> ns1:subject "averse"^^xsd:string .
+
+<http://mylocations.org/addresses/riskrelated__risk> ns1:subject "magnify"^^xsd:string .
+
+<http://mylocations.org/addresses/risks> ns1:subject "accepted"^^xsd:string,
+        "are"^^xsd:string,
+        "become"^^xsd:string,
+        "contains"^^xsd:string,
+        "involve"^^xsd:string,
+        "make"^^xsd:string,
+        "provides"^^xsd:string .
+
+<http://mylocations.org/addresses/roles> ns1:subject "provides"^^xsd:string .
+
+<http://mylocations.org/addresses/root_analysis> ns1:subject "cause"^^xsd:string .
+
+<http://mylocations.org/addresses/schedule_management_plan> ns1:subject "updates"^^xsd:string .
+
+<http://mylocations.org/addresses/schedule_risk_analysis> ns1:subject "used"^^xsd:string .
+
+<http://mylocations.org/addresses/scope> ns1:subject "include"^^xsd:string .
+
+<http://mylocations.org/addresses/scope_baseline> ns1:subject "evaluated_by"^^xsd:string .
+
+<http://mylocations.org/addresses/seller> ns1:subject "transfer"^^xsd:string .
+
+<http://mylocations.org/addresses/seller_contract> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/separate_assumptions_log> ns1:subject "incorporated_into"^^xsd:string .
+
+<http://mylocations.org/addresses/separate_risk_audit_meetings> ns1:subject "included_during_routine"^^xsd:string .
+
+<http://mylocations.org/addresses/separately__objective> ns1:subject "rate"^^xsd:string .
+
+<http://mylocations.org/addresses/several_risk_options> ns1:subject "required"^^xsd:string .
+
+<http://mylocations.org/addresses/several_risk_response_strategies> ns1:subject "are_available"^^xsd:string .
+
+<http://mylocations.org/addresses/severity> ns1:subject "address"^^xsd:string .
+
+<http://mylocations.org/addresses/similar__projects> ns1:subject "identified"^^xsd:string .
+
+<http://mylocations.org/addresses/similar__way> ns1:subject "developed_for"^^xsd:string .
+
+<http://mylocations.org/addresses/simple__rbs> ns1:subject "use"^^xsd:string .
+
+<http://mylocations.org/addresses/simulation_analysis> ns1:subject "evaluated"^^xsd:string .
+
+<http://mylocations.org/addresses/situation> ns1:subject "vary_by"^^xsd:string .
+
+<http://mylocations.org/addresses/sometimes_change_request> ns1:subject "results_in"^^xsd:string .
+
+<http://mylocations.org/addresses/sometimes_risk_breakdown_structure> ns1:subject "are"^^xsd:string .
+
+<http://mylocations.org/addresses/specialized_risk_responses> ns1:subject "provided_by"^^xsd:string .
+
+<http://mylocations.org/addresses/specific__interest> ns1:subject "threshold"^^xsd:string .
+
+<http://mylocations.org/addresses/specific__risk> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/specific_cost_targets> ns1:subject "illustrates"^^xsd:string .
+
+<http://mylocations.org/addresses/specific_impact_project> ns1:subject "probability_by"^^xsd:string .
+
+<http://mylocations.org/addresses/specific_risk_management_process> ns1:subject "revised_in"^^xsd:string .
+
+<http://mylocations.org/addresses/specific_risk_management_project> ns1:subject "tailored_in"^^xsd:string .
+
+<http://mylocations.org/addresses/specified__party> ns1:subject "used"^^xsd:string .
+
+<http://mylocations.org/addresses/stable_mitigation_actions> ns1:subject "are"^^xsd:string .
+
+<http://mylocations.org/addresses/stakeholder_risk_appetite> ns1:subject "performed_to"^^xsd:string .
+
+<http://mylocations.org/addresses/standard_decision_making> ns1:subject "include"^^xsd:string .
+
+<http://mylocations.org/addresses/studied__output> ns1:subject "contains"^^xsd:string .
+
+<http://mylocations.org/addresses/subject_project_team> ns1:subject "identify"^^xsd:string .
+
+<http://mylocations.org/addresses/subsequent_risk_management_processes> ns1:subject "tailored_to"^^xsd:string .
+
+<http://mylocations.org/addresses/such_highlevel_risks> ns1:subject "provide_various"^^xsd:string .
+
+<http://mylocations.org/addresses/such_probability_tools> ns1:subject "required"^^xsd:string .
+
+<http://mylocations.org/addresses/such_project_components> ns1:subject "represent"^^xsd:string .
+
+<http://mylocations.org/addresses/such_project_cost> ns1:subject "assesses"^^xsd:string .
+
+<http://mylocations.org/addresses/such_project_scope> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/such_risk_breakdown_framework> ns1:subject "used_as"^^xsd:string .
+
+<http://mylocations.org/addresses/such_risk_responses> ns1:subject "updated"^^xsd:string .
+
+<http://mylocations.org/addresses/such_time_risk> ns1:subject "are_useful"^^xsd:string .
+
+<http://mylocations.org/addresses/sufficient__plan> ns1:subject "is_appropriate"^^xsd:string .
+
+<http://mylocations.org/addresses/sufficient_risk_management_risks> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/suitable_response_strategy> ns1:subject "indicates"^^xsd:string .
+
+<http://mylocations.org/addresses/team> ns1:subject "performs"^^xsd:string .
+
+<http://mylocations.org/addresses/technical_project_achievement> ns1:subject "compares_technical"^^xsd:string .
+
+<http://mylocations.org/addresses/technique> ns1:subject "participate_in"^^xsd:string .
+
+<http://mylocations.org/addresses/techniques> ns1:subject "diagramming"^^xsd:string,
+        "include"^^xsd:string .
+
+<http://mylocations.org/addresses/techniques_management_plan> ns1:subject "diagramming"^^xsd:string .
+
+<http://mylocations.org/addresses/that> ns1:subject "tolerance"^^xsd:string .
+
+<http://mylocations.org/addresses/them> ns1:subject "taken_into"^^xsd:string .
+
+<http://mylocations.org/addresses/then__risk> ns1:subject "identified"^^xsd:string .
+
+<http://mylocations.org/addresses/therefore_chance_node> ns1:subject "represents"^^xsd:string .
+
+<http://mylocations.org/addresses/therefore_management_reserve> ns1:subject "managed"^^xsd:string .
+
+<http://mylocations.org/addresses/three_point_figure> ns1:subject "shown_in"^^xsd:string .
+
+<http://mylocations.org/addresses/time> ns1:subject "pruned_from"^^xsd:string .
+
+<http://mylocations.org/addresses/time_risk_response> ns1:subject "include"^^xsd:string .
+
+<http://mylocations.org/addresses/together__response> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/tools> ns1:subject "be_able"^^xsd:string .
+
+<http://mylocations.org/addresses/tools__outputs> ns1:subject "inputs"^^xsd:string .
+
+<http://mylocations.org/addresses/total__iterations> ns1:subject "calculated_from"^^xsd:string .
+
+<http://mylocations.org/addresses/traditional_freeform_brainstorm_session> ns1:subject "generated_under"^^xsd:string .
+
+<http://mylocations.org/addresses/triangular_wbs_distributions> ns1:subject "helps"^^xsd:string .
+
+<http://mylocations.org/addresses/two_shape_parameters> ns1:subject "is"^^xsd:string .
+
+<http://mylocations.org/addresses/typically_lookup_table> ns1:subject "conducted"^^xsd:string .
+
+<http://mylocations.org/addresses/unanticipated_project_risk> ns1:subject "reports"^^xsd:string .
+
+<http://mylocations.org/addresses/uncertain__project> ns1:subject "be"^^xsd:string .
+
+<http://mylocations.org/addresses/uncertain_chance_nodes> ns1:subject "shows"^^xsd:string .
+
+<http://mylocations.org/addresses/undue__outcome> ns1:subject "helps"^^xsd:string .
+
+<http://mylocations.org/addresses/uniform> ns1:subject "include"^^xsd:string .
+
+<http://mylocations.org/addresses/unmanaged_risk_threats> ns1:subject "is_likely"^^xsd:string .
+
+<http://mylocations.org/addresses/upgraded_capacity_plant> ns1:subject "leads_to"^^xsd:string .
+
+<http://mylocations.org/addresses/upside__opportunity> ns1:subject "seeks"^^xsd:string .
+
+<http://mylocations.org/addresses/us%24_%25> ns1:subject "is_about"^^xsd:string .
+
+<http://mylocations.org/addresses/use> ns1:subject "designed_for"^^xsd:string,
+        "include"^^xsd:string .
+
+<http://mylocations.org/addresses/used__distributions> ns1:subject "gathered_on"^^xsd:string .
+
+<http://mylocations.org/addresses/usually__organization> ns1:subject "set_by"^^xsd:string .
+
+<http://mylocations.org/addresses/usually_project_management_threat> ns1:subject "involves"^^xsd:string .
+
+<http://mylocations.org/addresses/usually_risk_management_process> ns1:subject "tailored_to"^^xsd:string .
+
+<http://mylocations.org/addresses/value_data> ns1:subject "take"^^xsd:string .
+
+<http://mylocations.org/addresses/varied_risk_condition> ns1:subject "influence_on"^^xsd:string .
+
+<http://mylocations.org/addresses/various_system_causation> ns1:subject "show"^^xsd:string .
+
+<http://mylocations.org/addresses/varying_risk_attitude> ns1:subject "are_willing"^^xsd:string .
+
+<http://mylocations.org/addresses/wbs_scope_baseline> ns1:subject "create"^^xsd:string .
+
+<http://mylocations.org/addresses/weaknesses> ns1:subject "examines"^^xsd:string .
+
+<http://mylocations.org/addresses/well_budget_strategy> ns1:subject "include"^^xsd:string .
+
+<http://mylocations.org/addresses/well_project_project> ns1:subject "be"^^xsd:string .
+
+<http://mylocations.org/addresses/well_requirements_documentation> ns1:subject "include"^^xsd:string .
+
+<http://mylocations.org/addresses/well_resource_loading> ns1:subject "include"^^xsd:string .
+
+<http://mylocations.org/addresses/well_risk_management_process> ns1:subject "examine"^^xsd:string .
+
+<http://mylocations.org/addresses/well_schedule_strategy> ns1:subject "include"^^xsd:string .
+
+<http://mylocations.org/addresses/when_risk_organization> ns1:subject "established"^^xsd:string .
+
+<http://mylocations.org/addresses/whole> ns1:subject "represents"^^xsd:string .
+
+<http://mylocations.org/addresses/work_work_performance> ns1:subject "requests_direct"^^xsd:string .
+

@@ -1,0 +1,117 @@
+11.3 Perform Qualitative Risk Analysis
+Perform Qualitative Risk Analysis is the process of prioritizing risks for further analysis or action by assessing
+and combining their probability of occurrence and impact. The key benefit of this process is that it enables project
+managers to reduce the level of uncertainty and to focus on high-priority risks. The inputs, tools and techniques,
+and outputs of this process are depicted in Figure 11-8. Figure 11-9 depicts the data flow diagram of the process.
+Perform Qualitative Risk Analysis assesses the priority of identified risks using their relative probability or
+likelihood of occurrence, the corresponding impact on project objectives if the risks occur, as well as other
+factors such as the time frame for response and the organization’s risk tolerance associated with the project
+constraints of cost, schedule, scope, and quality. Such assessments reflect the risk attitude of the project
+team and other stakeholders. Effective assessment therefore requires explicit identification and management
+of the risk approaches of key participants in the Perform Qualitative Risk Analysis process. Where these risk
+approaches introduce bias into the assessment of identified risks, attention should be paid to identifying bias
+and correcting for it.
+Establishing definitions of the levels of probability and impact can reduce the influence of bias. The time
+criticality of risk-related actions may magnify the importance of a risk. An evaluation of the quality of the
+available information on project risks also helps to clarify the assessment of the risk’s importance to the project.
+Perform Qualitative Risk Analysis is usually a rapid and cost-effective means of establishing priorities for Plan
+Risk Responses and lays the foundation for Perform Quantitative Risk Analysis, if required. The Perform Qualitative
+Risk Analysis process is performed regularly throughout the project life cycle, as defined in the project’s risk
+management plan. This process can lead into Perform Quantitative Risk Analysis (Section 11.4) or directly into Plan
+Risk Responses (Section 11.5).
+11.3.1 Perform Qualitative Risk Analysis: Inputs
+11.3.1.1 Risk Management Plan
+Described in Section 11.1.3.1. Key elements of the risk management plan used in the Perform Qualitative Risk
+Analysis process include roles and responsibilities for conducting risk management, budgets, schedule activities
+for risk management, risk categories, definitions of probability and impact, the probability and impact matrix,
+and revised stakeholders’ risk tolerances. These inputs are usually tailored to the project during the Plan Risk
+Management process. If they are not available, they may be developed during the Perform Qualitative Risk Analysis
+process.
+11.3.1.2 Scope Baseline
+Described in Section 5.4.3.1. Projects of a common or recurrent type tend to have more well-understood risks.
+Projects using state-of-the-art or first-of-its-kind technology, and highly complex projects, tend to have more
+uncertainty. This can be evaluated by examining the scope baseline.
+11.3.1.3 Risk Register
+Described in Section 11.2.3.1. The risk register contains the information that will be used to assess and prioritize
+risks.
+11.3.1.4 Enterprise Environmental Factors
+Described in Section 2.1.5. Enterprise environmental factors may provide insight and context to the risk
+assessment, such as:
+• Industry studies of similar projects by risk specialists, and
+• Risk databases that may be available from industry or proprietary sources.
+11.3.1.5 Organizational Process Assets
+Described in Section 2.1.4. The organizational process assets that can influence the Perform Qualitative Risk
+Analysis process include information on prior, similar completed projects.
+11.3.2 Perform Qualitative Risk Analysis: Tools and Techniques
+11.3.2.1 Risk Probability and Impact Assessment
+Risk probability assessment investigates the likelihood that each specific risk will occur. Risk impact
+assessment investigates the potential effect on a project objective such as schedule, cost, quality, or performance,
+including both negative effects for threats and positive effects for opportunities.
+Probability and impact are assessed for each identified risk. Risks can be assessed in interviews or meetings
+with participants selected for their familiarity with the risk categories on the agenda. Project team members and
+knowledgeable persons external to the project are included.
+The level of probability for each risk and its impact on each objective is evaluated during the interview or meeting.
+Explanatory detail, including assumptions justifying the levels assigned, are also recorded. Risk probabilities
+and impacts are rated according to the definitions given in the risk management plan. Risks with low ratings of
+probability and impact will be included within the risk register as part of the watch list for future monitoring.
+11.3.2.2 Probability and Impact Matrix
+Risks can be prioritized for further quantitative analysis and planning risk responses based on their risk rating.
+Ratings are assigned to risks based on their assessed probability and impact. Evaluation of each risk’s importance
+and priority for attention is typically conducted using a look-up table or a probability and impact matrix. Such a
+matrix specifies combinations of probability and impact that lead to rating the risks as low, moderate, or high
+priority. Descriptive terms or numeric values can be used depending on organizational preference.
+Each risk is rated on its probability of occurrence and impact on an objective if it does occur. The organization
+should determine which combinations of probability and impact result in a classification of high risk, moderate risk,
+and low risk. In a black-and-white matrix, these conditions are denoted using different shades of gray. Specifically
+in Figure 11-10, the dark gray area (with the largest numbers) represents high risk: the medium gray area (with
+the smallest numbers) represents low risk, and the light gray area (with in-between numbers) represents moderate
+risk. Usually, these risk-rating rules are specified by the organization in advance of the project and included in
+organizational process assets. Risk rating rules can be tailored in the Plan Risk Management process to the specific
+project.
+As illustrated in Figure 11-10, an organization can rate a risk separately for each objective (e.g., cost, time,
+and scope). In addition, it may develop ways to determine one overall rating for each risk. Finally, opportunities
+and threats are handled in the same matrix using definitions of the different levels of impact that are appropriate
+for each.
+The risk score helps guide risk responses. For example, risks that have a negative impact on objectives,
+otherwise known as threats if they occur, and that are in the high-risk (dark gray) zone of the matrix, may require
+priority action and aggressive response strategies. Threats found in the low-risk (medium gray) zone may not
+require proactive management action beyond being placed in the risk register as part of the watch list or adding
+a contingency reserve. Similarly for opportunities, those in the high-risk (dark gray) zone, which may be obtained
+most easily and offer the greatest benefit, should be targeted first. Opportunities in the low-risk (medium gray) zone
+should be monitored.
+11.3.2.3 Risk Data Quality Assessment
+Risk data quality assessment is a technique to evaluate the degree to which the data about risks is useful
+for risk management. It involves examining the degree to which the risk is understood and the accuracy, quality,
+reliability, and integrity of the data about the risk.
+The use of low-quality risk data may lead to a qualitative risk analysis of little use to the project. If data quality is
+unacceptable, it may be necessary to gather better data. Often, the collection of information about risks is difficult,
+and consumes more time and resources than originally planned. The values used in the example in Figure 11-10
+are representative. The numbers of steps in the scale are usually established when defining the risk attitude of the
+organization.
+11.3.2.4 Risk Categorization
+Risks to the project can be categorized by sources of risk (e.g., using the RBS), the area of the project affected
+(e.g., using the WBS), or other useful categories (e.g., project phase) to determine the areas of the project most
+exposed to the effects of uncertainty. Risks can also be categorized by common root causes. This technique helps
+determine work packages, activities, project phases or even roles in the project, which can lead to the development
+of effective risk responses.
+11.3.2.5 Risk Urgency Assessment
+Risks requiring near-term responses may be considered more urgent to address. Indicators of priority may
+include probability of detecting the risk, time to affect a risk response, symptoms and warning signs, and the
+risk rating. In some qualitative analyses, the assessment of risk urgency is combined with the risk ranking that is
+determined from the probability and impact matrix to give a final risk severity rating.
+11.3.2.6 Expert Judgment
+Expert judgment is required to assess the probability and impact of each risk to determine its location in
+the matrix shown in Figure 11-10. Experts generally are those having experience with similar, recent projects.
+Gathering expert judgment is often accomplished with the use of risk facilitation workshops or interviews. The
+experts’ bias should be taken into account in this process.
+11.3.3 Perform Qualitative Risk Analysis: Outputs
+11.3.3.1 Project Documents Updates
+Project documents that may be updated include, but are not limited to:
+• Risk register updates. As new information becomes available through the qualitative risk
+assessment, the risk register is updated. Updates to the risk register may include assessments
+of probability and impacts for each risk, risk ranking or scores, risk urgency information or risk
+categorization, and a watch list for low probability risks or risks requiring further analysis.
+• Assumptions log updates. As new information becomes available through the qualitative risk
+assessment, assumptions could change. The assumptions log needs to be revisited to accommodate
+this new information. Assumptions may be incorporated into the project scope statement or in a
+separate assumptions log.

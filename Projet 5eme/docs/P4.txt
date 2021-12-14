@@ -1,0 +1,118 @@
+11.4 Perform Quantitative Risk Analysis
+Perform Quantitative Risk Analysis is the process of numerically analyzing the effect of identified risks on overall
+project objectives. The key benefit of this process is that it produces quantitative risk information to support decision
+making in order to reduce project uncertainty. The inputs, tools and techniques, and outputs of this process are
+depicted in Figure 11-11. Figure 11-12 depicts the data flow diagram of the process.
+Perform Quantitative Risk Analysis is performed on risks that have been prioritized by the Perform Qualitative
+Risk Analysis process as potentially and substantially impacting the project’s competing demands. The Perform
+Quantitative Risk Analysis process analyzes the effect of those risks on project objectives. It is used mostly to
+evaluate the aggregate effect of all risks affecting the project. When the risks drive the quantitative analysis, the
+process may be used to assign a numerical priority rating to those risks individually.
+Perform Quantitative Risk Analysis generally follows the Perform Qualitative Risk Analysis process. In some
+cases, it may not be possible to execute the Perform Quantitative Risk Analysis process due to lack of sufficient
+data to develop appropriate models. The project manager should exercise expert judgment to determine the need
+for and the viability of quantitative risk analysis. The availability of time and budget, and the need for qualitative or
+quantitative statements about risk and impacts, will determine which method(s) to use on any particular project.
+Perform Quantitative Risk Analysis should be repeated, as needed, as part of the Control Risks process to determine
+if the overall project risk has been satisfactorily decreased. Trends may indicate the need for more or less focus on
+appropriate risk management activities.
+11.4.1 Perform Quantitative Risk Analysis: Inputs
+11.4.1.1 Risk Management Plan
+Described in Section 11.1.3.1. The risk management plan provides guidelines, methods, and tools to be used in
+quantitative risk analysis.
+11.4.1.2 Cost Management Plan
+Described in Section 7.1.3.1. The cost management plan provides guidelines on establishing and managing risk
+reserves.
+11.4.1.3 Schedule Management Plan
+Described in Section 6.1.3.1. The schedule management plan provides guidelines on establishing and managing
+risk reserves.
+11.4.1.4 Risk Register
+Described in Section 11.2.3.1. The risk register is used as a reference point for performing quantitative risk
+analysis.
+11.4.1.5 Enterprise Environmental Factors
+Described in Section 2.1.5. Enterprise environmental factors may provide insight and context to the risk analysis,
+such as:
+• Industry studies of similar projects by risk specialists, and
+• Risk databases that may be available from industry or proprietary sources.
+11.4.1.6 Organizational Process Assets
+Described in Section 2.1.4. The organizational process assets that can influence the Perform Quantitative Risk
+Analysis process include information from prior, similar completed projects.
+11.4.2 Perform Quantitative Risk Analysis: Tools and Techniques
+11.4.2.1 Data Gathering and Representation Techniques
+• Interviewing. Interviewing techniques draw on experience and historical data to quantify the probability
+and impact of risks on project objectives. The information needed depends upon the type of probability
+distributions that will be used. For instance, information would be gathered on the optimistic (low),
+pessimistic (high), and most likely scenarios for some commonly used distributions. Examples of threepoint
+estimates for cost are shown in Figure 11-13. Additional information on three-point estimates
+appears in Estimate Activity Durations (Section 6.5) and Estimate Costs (Section 7.2). Documenting the
+rationale of the risk ranges and the assumptions behind them are important components of the risk
+interview because they can provide insight on the reliability and credibility of the analysis.
+• Probability distributions. Continuous probability distributions, which are used extensively in modeling
+and simulation, represent the uncertainty in values such as durations of schedule activities and costs
+of project components. Discrete distributions can be used to represent uncertain events, such as the
+outcome of a test or a possible scenario in a decision tree. Two examples of widely used continuous
+distributions are shown in Figure 11-14. These distributions depict shapes that are compatible with the
+data typically developed during the quantitative risk analysis. Uniform distributions can be used if there
+is no obvious value that is more likely than any other between specified high and low bounds, such as in
+the early concept stage of design.
+11.4.2.2 Quantitative Risk Analysis and Modeling Techniques
+Commonly used techniques use both event-oriented and project-oriented analysis approaches, including:
+• Sensitivity analysis. Sensitivity analysis helps to determine which risks have the most potential
+impact on the project. It helps to understand how the variations in project’s objectives correlate with
+variations in different uncertainties. Conversely, it examines the extent to which the uncertainty of
+each project element affects the objective being studied when all other uncertain elements are held at
+their baseline values. One typical display of sensitivity analysis is the tornado diagram (Figure 11-15),
+which is useful for comparing relative importance and impact of variables that have a high degree of
+uncertainty to those that are more stable. The Tornado diagram is also helpful in analyzing risk-taking
+scenarios enabled on specific risks whose quantitative analysis highlights possible benefits greater
+than corresponding identified negative impacts. A tornado diagram is a special type of bar chart used
+in sensitivity analysis for comparing the relative importance of the variables. In a tornado diagram,
+the Y-axis contains each type of uncertainty at base values, and the X-axis contains the spread or
+correlation of the uncertainty to the studied output. In this figure, each uncertainty contains a horizontal
+bar and is ordered vertically to show uncertainties with a decreasing spread from the base values.
+• Expected monetary value analysis. Expected monetary value (EMV) analysis is a statistical concept
+that calculates the average outcome when the future includes scenarios that may or may not happen
+(i.e., analysis under uncertainty). The EMV of opportunities are generally expressed as positive values,
+while those of threats are expressed as negative values. EMV requires a risk-neutral assumption—
+neither risk averse nor risk seeking. EMV for a project is calculated by multiplying the value of each
+possible outcome by its probability of occurrence and adding the products together. A common use of
+this type of analysis is a decision tree analysis (Figure 11-16).
+• Modeling and simulation. A project simulation uses a model that translates the specified detailed
+uncertainties of the project into their potential impact on project objectives. Simulations are typically
+performed using the Monte Carlo technique. In a simulation, the project model is computed many times
+(iterated), with the input values (e.g., cost estimates or activity durations) chosen at random for each
+iteration from the probability distributions of these variables. A histogram (e.g., total cost or completion
+date) is calculated from the iterations. For a cost risk analysis, a simulation uses cost estimates. For a
+schedule risk analysis, the schedule network diagram and duration estimates are used. The output from a
+cost risk simulation using the three-element model and risk ranges is shown in Figure 11-17. It illustrates
+the respective probability of achieving specific cost targets. Similar curves can be developed for other
+project objectives.
+11.4.2.3 Expert Judgment
+Expert judgment (ideally using experts with relevant, recent experience) is required to identify potential cost
+and schedule impacts, to evaluate probability, and to define inputs such as probability distributions into the tools.
+Expert judgment also comes into play in the interpretation of the data. Experts should be able to identify the
+weaknesses of the tools as well as their strengths. Experts may determine when a specific tool may or may not be
+more appropriate given the organization’s capabilities and culture.
+11.4.3 Perform Quantitative Risk Analysis: Outputs
+11.4.3.1 Project Documents Updates
+Project documents are updated with information resulting from quantitative risk analysis. For example, risk
+register updates could include:
+• Probabilistic analysis of the project. Estimates are made of potential project schedule and cost
+outcomes listing the possible completion dates and costs with their associated confidence levels.
+This output, often expressed as a cumulative frequency distribution, is used with stakeholder risk
+tolerances to permit quantification of the cost and time contingency reserves. Such contingency
+reserves are needed to bring the risk of overrunning stated project objectives to a level acceptable to
+the organization.
+• Probability of achieving cost and time objectives. With the risks facing the project, the probability
+of achieving project objectives under the current plan can be estimated using quantitative risk analysis
+results. For instance, in Figure 11-17, the likelihood of achieving the cost estimate of US$41 million is
+about 12%.
+• Prioritized list of quantified risks. This list includes those risks that pose the greatest threat or present
+the greatest opportunity to the project. These include the risks that may have the greatest effect on cost
+contingency and those that are most likely to influence the critical path. These risks may be evaluated, in
+some cases, through a tornado diagram generated as a result of the simulation analysis.
+• Trends in quantitative risk analysis results. As the analysis is repeated, a trend may become apparent
+that leads to conclusions affecting risk responses. Organizational historical information on project schedule,
+cost, quality, and performance should reflect new insights gained through the Perform Quantitative Risk
+Analysis process. Such history may take the form of a quantitative risk analysis report. This report may
+be separate from, or linked to, the risk register.
